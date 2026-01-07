@@ -1,0 +1,84 @@
+{
+  "gameType": "TOTO",
+  "lastUpdated": "2026-01-07T06:09:45.551+08:00",
+  "draws": [
+    {
+      "id": "TOTO-4145",
+      "gameType": "TOTO",
+      "drawNumber": 4145,
+      "drawDate": "2026-01-05",
+      "winningNumbers": [
+        5,
+        20,
+        35,
+        39,
+        40,
+        49
+      ],
+      "additionalNumber": 27,
+      "jackpotAmount": 2500000,
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1 (Jackpot)",
+          "prizeAmount": 2500000,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 0,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 0,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 0,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
+    }
+  ],
+  "nextDraw": {
+    "nextDrawDate": "Thu, 08 Jan 2026",
+    "nextDrawEstimatedJackpot": 2500000
+  }
+}
