@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-01-07T16:18:45.761+08:00",
+  "lastUpdated": "2026-01-07T17:37:49.999+08:00",
   "totalDraws": 314,
   "draws": [
     {
@@ -33,15 +33,7 @@
           "prizeAmount": 253986,
           "numberOfWinners": 1,
           "shareAmount": null,
-          "winningOutlets": [
-            {
-              "outletName": "NTUC FairPrice Wisteria Mall",
-              "outletAddress": "598 Yishun Ring Road #01-01 Wisteria Mall",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 3,
