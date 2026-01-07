@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-01-07T08:02:49.793+08:00",
+  "lastUpdated": "2026-01-07T10:21:21.595+08:00",
   "draws": [
     {
       "id": "TOTO-4145",
@@ -20,8 +20,8 @@
       "prizes": [
         {
           "group": 1,
-          "prizeType": "Group 1 (Jackpot)",
-          "prizeAmount": 2500000,
+          "prizeType": "Group 1",
+          "prizeAmount": 0,
           "numberOfWinners": 0,
           "shareAmount": null,
           "winningOutlets": []
@@ -29,32 +29,24 @@
         {
           "group": 2,
           "prizeType": "Group 2",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 253986,
+          "numberOfWinners": 1,
           "shareAmount": null,
-          "winningOutlets": [
-            {
-              "outletName": "NTUC FairPrice Wisteria Mall",
-              "outletAddress": "598 Yishun Ring Road #01-01 Wisteria Mall",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 3,
           "prizeType": "Group 3",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 2646,
+          "numberOfWinners": 66,
           "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 4,
           "prizeType": "Group 4",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 551,
+          "numberOfWinners": 173,
           "shareAmount": null,
           "winningOutlets": []
         },
@@ -62,31 +54,27 @@
           "group": 5,
           "prizeType": "Group 5",
           "prizeAmount": 50,
-          "numberOfWinners": 0,
-          "shareAmount": 50,
+          "numberOfWinners": 4567,
+          "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 6,
           "prizeType": "Group 6",
           "prizeAmount": 25,
-          "numberOfWinners": 0,
-          "shareAmount": 25,
+          "numberOfWinners": 5737,
+          "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 7,
           "prizeType": "Group 7",
           "prizeAmount": 10,
-          "numberOfWinners": 0,
-          "shareAmount": 10,
+          "numberOfWinners": 86036,
+          "shareAmount": null,
           "winningOutlets": []
         }
       ]
     }
-  ],
-  "nextDraw": {
-    "nextDrawDate": "Thu, 08 Jan 2026",
-    "nextDrawEstimatedJackpot": 2500000
-  }
+  ]
 }
