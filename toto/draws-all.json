@@ -1,8 +1,147 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-01-07T17:37:49.999+08:00",
-  "totalDraws": 314,
+  "lastUpdated": "2026-01-08T13:58:15.849+08:00",
+  "totalDraws": 315,
   "draws": [
+    {
+      "id": "TOTO-4146",
+      "gameType": "TOTO",
+      "drawNumber": 4146,
+      "drawDate": "2026-01-08",
+      "winningNumbers": [
+        3,
+        14,
+        15,
+        17,
+        25,
+        27
+      ],
+      "additionalNumber": 31,
+      "jackpotAmount": 1000000,
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1 (Jackpot)",
+          "prizeAmount": 1000000,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick System 8",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Mee Lee Cheong Pte. Ltd.",
+              "outletAddress": "Block 139 Tampines Street 11 #01-88",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Shell Station Tuas South Avenue 5",
+              "outletAddress": "121 Tuas South Avenue 5",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Holland Drive Branch",
+              "outletAddress": "Block 46 Holland Drive #01-371/373",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Giant Buangkok Crescent",
+              "outletAddress": "Block 982 Buangkok Crescent #01-01",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Wanrise",
+              "outletAddress": "Block 47 Sims Place #01-177",
+              "betType": "System 8",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 0,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 0,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 0,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
+    },
     {
       "id": "TOTO-4145",
       "gameType": "TOTO",
@@ -23241,7 +23380,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Thu, 08 Jan 2026",
-    "nextDrawEstimatedJackpot": 2500000
+    "nextDrawDate": "Mon, 12 Jan 2026",
+    "nextDrawEstimatedJackpot": 1000000
   }
 }
