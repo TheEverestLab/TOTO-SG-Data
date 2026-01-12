@@ -1,21 +1,21 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-01-08T13:58:15.849+08:00",
+  "lastUpdated": "2026-01-12T13:59:25.280+08:00",
   "draws": [
     {
-      "id": "TOTO-4146",
+      "id": "TOTO-4147",
       "gameType": "TOTO",
-      "drawNumber": 4146,
-      "drawDate": "2026-01-08",
+      "drawNumber": 4147,
+      "drawDate": "2026-01-12",
       "winningNumbers": [
-        3,
-        14,
-        15,
-        17,
-        25,
-        27
+        1,
+        9,
+        16,
+        18,
+        35,
+        43
       ],
-      "additionalNumber": 31,
+      "additionalNumber": 12,
       "jackpotAmount": 1000000,
       "prizes": [
         {
@@ -28,8 +28,15 @@
             {
               "outletName": "Singapore Pools Account",
               "outletAddress": null,
-              "betType": "QuickPick Ordinary",
+              "betType": "QuickPick System 7",
               "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Bedok Town Centre Branch",
+              "outletAddress": "Block 204 Bedok North Street 1 #01-415",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
               "shareCount": 1
             }
           ]
@@ -49,52 +56,10 @@
               "shareCount": 1
             },
             {
-              "outletName": "Mee Lee Cheong Pte. Ltd.",
-              "outletAddress": "Block 139 Tampines Street 11 #01-88",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Shell Station Tuas South Avenue 5",
-              "outletAddress": "121 Tuas South Avenue 5",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
               "outletName": "Singapore Pools Account",
               "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Holland Drive Branch",
-              "outletAddress": "Block 46 Holland Drive #01-371/373",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Giant Buangkok Crescent",
-              "outletAddress": "Block 982 Buangkok Crescent #01-01",
               "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Wanrise",
-              "outletAddress": "Block 47 Sims Place #01-177",
-              "betType": "System 8",
-              "purchaseMethod": "Retail",
+              "purchaseMethod": "Online",
               "shareCount": 1
             }
           ]
@@ -143,7 +108,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Mon, 12 Jan 2026",
+    "nextDrawDate": "Thu, 15 Jan 2026",
     "nextDrawEstimatedJackpot": 1000000
   }
 }

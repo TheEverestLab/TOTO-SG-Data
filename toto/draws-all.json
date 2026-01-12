@@ -1,8 +1,112 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-01-11T16:14:40.997+08:00",
-  "totalDraws": 315,
+  "lastUpdated": "2026-01-12T13:59:25.280+08:00",
+  "totalDraws": 316,
   "draws": [
+    {
+      "id": "TOTO-4147",
+      "gameType": "TOTO",
+      "drawNumber": 4147,
+      "drawDate": "2026-01-12",
+      "winningNumbers": [
+        1,
+        9,
+        16,
+        18,
+        35,
+        43
+      ],
+      "additionalNumber": 12,
+      "jackpotAmount": 1000000,
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1 (Jackpot)",
+          "prizeAmount": 1000000,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Bedok Town Centre Branch",
+              "outletAddress": "Block 204 Bedok North Street 1 #01-415",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick System 8",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 0,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 0,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 0,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
+    },
     {
       "id": "TOTO-4146",
       "gameType": "TOTO",
@@ -23380,7 +23484,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Mon, 12 Jan 2026",
+    "nextDrawDate": "Thu, 15 Jan 2026",
     "nextDrawEstimatedJackpot": 1000000
   }
 }
