@@ -1,21 +1,21 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-01-12T13:59:25.280+08:00",
+  "lastUpdated": "2026-01-15T13:58:17.143+08:00",
   "draws": [
     {
-      "id": "TOTO-4147",
+      "id": "TOTO-4148",
       "gameType": "TOTO",
-      "drawNumber": 4147,
-      "drawDate": "2026-01-12",
+      "drawNumber": 4148,
+      "drawDate": "2026-01-15",
       "winningNumbers": [
-        1,
-        9,
         16,
-        18,
+        32,
+        34,
         35,
-        43
+        36,
+        41
       ],
-      "additionalNumber": 12,
+      "additionalNumber": 14,
       "jackpotAmount": 1000000,
       "prizes": [
         {
@@ -26,15 +26,8 @@
           "shareAmount": null,
           "winningOutlets": [
             {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Bedok Town Centre Branch",
-              "outletAddress": "Block 204 Bedok North Street 1 #01-415",
+              "outletName": "Tan Ah Leck Trading",
+              "outletAddress": "Bukit Batok Street 11 - Block 151 Bukit Batok Street 11 #01-254",
               "betType": "QuickPick Ordinary",
               "purchaseMethod": "Retail",
               "shareCount": 1
@@ -51,14 +44,14 @@
             {
               "outletName": "Singapore Pools Account",
               "outletAddress": null,
-              "betType": "QuickPick System 8",
+              "betType": "QuickPick Ordinary",
               "purchaseMethod": "Online",
               "shareCount": 1
             },
             {
               "outletName": "Singapore Pools Account",
               "outletAddress": null,
-              "betType": "QuickPick Ordinary",
+              "betType": "System 8",
               "purchaseMethod": "Online",
               "shareCount": 1
             }
@@ -108,7 +101,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Thu, 15 Jan 2026",
+    "nextDrawDate": "Mon, 19 Jan 2026",
     "nextDrawEstimatedJackpot": 1000000
   }
 }
