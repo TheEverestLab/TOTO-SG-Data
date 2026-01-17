@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-01-15T13:58:17.143+08:00",
+  "lastUpdated": "2026-01-17T14:34:22.010+08:00",
   "draws": [
     {
       "id": "TOTO-4148",
@@ -16,13 +16,13 @@
         41
       ],
       "additionalNumber": 14,
-      "jackpotAmount": 1000000,
+      "jackpotAmount": 1250153,
       "prizes": [
         {
           "group": 1,
-          "prizeType": "Group 1 (Jackpot)",
-          "prizeAmount": 1000000,
-          "numberOfWinners": 0,
+          "prizeType": "Group 1",
+          "prizeAmount": 1250153,
+          "numberOfWinners": 1,
           "shareAmount": null,
           "winningOutlets": [
             {
@@ -37,8 +37,8 @@
         {
           "group": 2,
           "prizeType": "Group 2",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 87731,
+          "numberOfWinners": 3,
           "shareAmount": null,
           "winningOutlets": [
             {
@@ -60,16 +60,16 @@
         {
           "group": 3,
           "prizeType": "Group 3",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 2034,
+          "numberOfWinners": 89,
           "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 4,
           "prizeType": "Group 4",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 424,
+          "numberOfWinners": 233,
           "shareAmount": null,
           "winningOutlets": []
         },
@@ -77,24 +77,24 @@
           "group": 5,
           "prizeType": "Group 5",
           "prizeAmount": 50,
-          "numberOfWinners": 0,
-          "shareAmount": 50,
+          "numberOfWinners": 4688,
+          "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 6,
           "prizeType": "Group 6",
           "prizeAmount": 25,
-          "numberOfWinners": 0,
-          "shareAmount": 25,
+          "numberOfWinners": 6400,
+          "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 7,
           "prizeType": "Group 7",
           "prizeAmount": 10,
-          "numberOfWinners": 0,
-          "shareAmount": 10,
+          "numberOfWinners": 83224,
+          "shareAmount": null,
           "winningOutlets": []
         }
       ]
