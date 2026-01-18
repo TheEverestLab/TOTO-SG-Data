@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-01-17T14:34:22.010+08:00",
+  "lastUpdated": "2026-01-18T14:45:54.136+08:00",
   "totalDraws": 317,
   "draws": [
     {
@@ -25,15 +25,7 @@
           "prizeAmount": 1250153,
           "numberOfWinners": 1,
           "shareAmount": null,
-          "winningOutlets": [
-            {
-              "outletName": "Tan Ah Leck Trading",
-              "outletAddress": "Bukit Batok Street 11 - Block 151 Bukit Batok Street 11 #01-254",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 2,
@@ -41,22 +33,7 @@
           "prizeAmount": 87731,
           "numberOfWinners": 3,
           "shareAmount": null,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 8",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 3,
@@ -114,67 +91,37 @@
         43
       ],
       "additionalNumber": 12,
-      "jackpotAmount": 1000000,
+      "jackpotAmount": 645912,
       "prizes": [
         {
           "group": 1,
-          "prizeType": "Group 1 (Jackpot)",
-          "prizeAmount": 1000000,
-          "numberOfWinners": 0,
+          "prizeType": "Group 1",
+          "prizeAmount": 645912,
+          "numberOfWinners": 2,
           "shareAmount": null,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Bedok Town Centre Branch",
-              "outletAddress": "Block 204 Bedok North Street 1 #01-415",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 2,
           "prizeType": "Group 2",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 135982,
+          "numberOfWinners": 2,
           "shareAmount": null,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 8",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 3,
           "prizeType": "Group 3",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 2253,
+          "numberOfWinners": 83,
           "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 4,
           "prizeType": "Group 4",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 282,
+          "numberOfWinners": 362,
           "shareAmount": null,
           "winningOutlets": []
         },
@@ -182,24 +129,24 @@
           "group": 5,
           "prizeType": "Group 5",
           "prizeAmount": 50,
-          "numberOfWinners": 0,
-          "shareAmount": 50,
+          "numberOfWinners": 6022,
+          "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 6,
           "prizeType": "Group 6",
           "prizeAmount": 25,
-          "numberOfWinners": 0,
-          "shareAmount": 25,
+          "numberOfWinners": 10992,
+          "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 7,
           "prizeType": "Group 7",
           "prizeAmount": 10,
-          "numberOfWinners": 0,
-          "shareAmount": 10,
+          "numberOfWinners": 111643,
+          "shareAmount": null,
           "winningOutlets": []
         }
       ]
@@ -218,102 +165,37 @@
         27
       ],
       "additionalNumber": 31,
-      "jackpotAmount": 1000000,
+      "jackpotAmount": 2923900,
       "prizes": [
         {
           "group": 1,
-          "prizeType": "Group 1 (Jackpot)",
-          "prizeAmount": 1000000,
-          "numberOfWinners": 0,
+          "prizeType": "Group 1",
+          "prizeAmount": 2923900,
+          "numberOfWinners": 1,
           "shareAmount": null,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 2,
           "prizeType": "Group 2",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 45197,
+          "numberOfWinners": 8,
           "shareAmount": null,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 8",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Mee Lee Cheong Pte. Ltd.",
-              "outletAddress": "Block 139 Tampines Street 11 #01-88",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Shell Station Tuas South Avenue 5",
-              "outletAddress": "121 Tuas South Avenue 5",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Holland Drive Branch",
-              "outletAddress": "Block 46 Holland Drive #01-371/373",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Giant Buangkok Crescent",
-              "outletAddress": "Block 982 Buangkok Crescent #01-01",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Wanrise",
-              "outletAddress": "Block 47 Sims Place #01-177",
-              "betType": "System 8",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 3,
           "prizeType": "Group 3",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 1498,
+          "numberOfWinners": 166,
           "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 4,
           "prizeType": "Group 4",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
+          "prizeAmount": 288,
+          "numberOfWinners": 471,
           "shareAmount": null,
           "winningOutlets": []
         },
@@ -321,24 +203,24 @@
           "group": 5,
           "prizeType": "Group 5",
           "prizeAmount": 50,
-          "numberOfWinners": 0,
-          "shareAmount": 50,
+          "numberOfWinners": 8693,
+          "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 6,
           "prizeType": "Group 6",
           "prizeAmount": 25,
-          "numberOfWinners": 0,
-          "shareAmount": 25,
+          "numberOfWinners": 11383,
+          "shareAmount": null,
           "winningOutlets": []
         },
         {
           "group": 7,
           "prizeType": "Group 7",
           "prizeAmount": 10,
-          "numberOfWinners": 0,
-          "shareAmount": 10,
+          "numberOfWinners": 153853,
+          "shareAmount": null,
           "winningOutlets": []
         }
       ]
@@ -357,7 +239,7 @@
         49
       ],
       "additionalNumber": 27,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1206430,
       "prizes": [
         {
           "group": 1,
@@ -505,7 +387,7 @@
         33
       ],
       "additionalNumber": 49,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1336997,
       "prizes": [
         {
           "group": 1,
@@ -653,7 +535,7 @@
         30
       ],
       "additionalNumber": 36,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2920757,
       "prizes": [
         {
           "group": 1,
@@ -727,7 +609,7 @@
         43
       ],
       "additionalNumber": 27,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1216701,
       "prizes": [
         {
           "group": 1,
@@ -949,7 +831,7 @@
         47
       ],
       "additionalNumber": 45,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1257083,
       "prizes": [
         {
           "group": 1,
@@ -1097,7 +979,7 @@
         49
       ],
       "additionalNumber": 37,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1240259,
       "prizes": [
         {
           "group": 1,
@@ -1245,7 +1127,7 @@
         47
       ],
       "additionalNumber": 19,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1242224,
       "prizes": [
         {
           "group": 1,
@@ -1393,7 +1275,7 @@
         34
       ],
       "additionalNumber": 24,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1265445,
       "prizes": [
         {
           "group": 1,
@@ -1541,7 +1423,7 @@
         36
       ],
       "additionalNumber": 16,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1285138,
       "prizes": [
         {
           "group": 1,
@@ -1689,7 +1571,7 @@
         43
       ],
       "additionalNumber": 35,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5836580,
       "prizes": [
         {
           "group": 1,
@@ -1763,7 +1645,7 @@
         45
       ],
       "additionalNumber": 21,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2962292,
       "prizes": [
         {
           "group": 1,
@@ -1837,7 +1719,7 @@
         38
       ],
       "additionalNumber": 17,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1251199,
       "prizes": [
         {
           "group": 1,
@@ -1985,7 +1867,7 @@
         37
       ],
       "additionalNumber": 8,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5816118,
       "prizes": [
         {
           "group": 1,
@@ -2059,7 +1941,7 @@
         39
       ],
       "additionalNumber": 7,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3026562,
       "prizes": [
         {
           "group": 1,
@@ -2133,7 +2015,7 @@
         46
       ],
       "additionalNumber": 39,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1307713,
       "prizes": [
         {
           "group": 1,
@@ -2281,7 +2163,7 @@
         48
       ],
       "additionalNumber": 4,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3125455,
       "prizes": [
         {
           "group": 1,
@@ -2355,7 +2237,7 @@
         46
       ],
       "additionalNumber": 14,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1245465,
       "prizes": [
         {
           "group": 1,
@@ -2503,7 +2385,7 @@
         36
       ],
       "additionalNumber": 12,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5655940,
       "prizes": [
         {
           "group": 1,
@@ -2577,7 +2459,7 @@
         47
       ],
       "additionalNumber": 44,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3008745,
       "prizes": [
         {
           "group": 1,
@@ -2651,7 +2533,7 @@
         49
       ],
       "additionalNumber": 21,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1236374,
       "prizes": [
         {
           "group": 1,
@@ -2799,7 +2681,7 @@
         48
       ],
       "additionalNumber": 33,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1227974,
       "prizes": [
         {
           "group": 1,
@@ -3021,7 +2903,7 @@
         17
       ],
       "additionalNumber": 20,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1260079,
       "prizes": [
         {
           "group": 1,
@@ -3169,7 +3051,7 @@
         39
       ],
       "additionalNumber": 48,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5812259,
       "prizes": [
         {
           "group": 1,
@@ -3243,7 +3125,7 @@
         46
       ],
       "additionalNumber": 12,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2974742,
       "prizes": [
         {
           "group": 1,
@@ -3317,7 +3199,7 @@
         42
       ],
       "additionalNumber": 26,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1258912,
       "prizes": [
         {
           "group": 1,
@@ -3465,7 +3347,7 @@
         44
       ],
       "additionalNumber": 1,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1199651,
       "prizes": [
         {
           "group": 1,
@@ -3761,7 +3643,7 @@
         47
       ],
       "additionalNumber": 1,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5853782,
       "prizes": [
         {
           "group": 1,
@@ -3835,7 +3717,7 @@
         49
       ],
       "additionalNumber": 26,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2962788,
       "prizes": [
         {
           "group": 1,
@@ -3909,7 +3791,7 @@
         37
       ],
       "additionalNumber": 17,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1251417,
       "prizes": [
         {
           "group": 1,
@@ -3983,7 +3865,7 @@
         42
       ],
       "additionalNumber": 1,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 12766543,
       "prizes": [
         {
           "group": 1,
@@ -4057,7 +3939,7 @@
         41
       ],
       "additionalNumber": 20,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5792345,
       "prizes": [
         {
           "group": 1,
@@ -4131,7 +4013,7 @@
         44
       ],
       "additionalNumber": 10,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2913763,
       "prizes": [
         {
           "group": 1,
@@ -4205,7 +4087,7 @@
         45
       ],
       "additionalNumber": 34,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1231037,
       "prizes": [
         {
           "group": 1,
@@ -4353,7 +4235,7 @@
         36
       ],
       "additionalNumber": 13,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1228144,
       "prizes": [
         {
           "group": 1,
@@ -4501,7 +4383,7 @@
         49
       ],
       "additionalNumber": 24,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1176309,
       "prizes": [
         {
           "group": 1,
@@ -4649,7 +4531,7 @@
         49
       ],
       "additionalNumber": 21,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5614761,
       "prizes": [
         {
           "group": 1,
@@ -4723,7 +4605,7 @@
         49
       ],
       "additionalNumber": 20,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2927384,
       "prizes": [
         {
           "group": 1,
@@ -4797,7 +4679,7 @@
         48
       ],
       "additionalNumber": 27,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1296208,
       "prizes": [
         {
           "group": 1,
@@ -5093,7 +4975,7 @@
         48
       ],
       "additionalNumber": 8,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3070605,
       "prizes": [
         {
           "group": 1,
@@ -5167,7 +5049,7 @@
         48
       ],
       "additionalNumber": 29,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1235330,
       "prizes": [
         {
           "group": 1,
@@ -5389,7 +5271,7 @@
         48
       ],
       "additionalNumber": 45,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3140877,
       "prizes": [
         {
           "group": 1,
@@ -5463,7 +5345,7 @@
         47
       ],
       "additionalNumber": 22,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1259988,
       "prizes": [
         {
           "group": 1,
@@ -5611,7 +5493,7 @@
         49
       ],
       "additionalNumber": 38,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1216780,
       "prizes": [
         {
           "group": 1,
@@ -5759,7 +5641,7 @@
         40
       ],
       "additionalNumber": 33,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5822176,
       "prizes": [
         {
           "group": 1,
@@ -5833,7 +5715,7 @@
         43
       ],
       "additionalNumber": 32,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3004923,
       "prizes": [
         {
           "group": 1,
@@ -5907,7 +5789,7 @@
         46
       ],
       "additionalNumber": 19,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1227674,
       "prizes": [
         {
           "group": 1,
@@ -6055,7 +5937,7 @@
         48
       ],
       "additionalNumber": 10,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1269186,
       "prizes": [
         {
           "group": 1,
@@ -6277,7 +6159,7 @@
         46
       ],
       "additionalNumber": 20,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3066159,
       "prizes": [
         {
           "group": 1,
@@ -6351,7 +6233,7 @@
         42
       ],
       "additionalNumber": 3,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1258790,
       "prizes": [
         {
           "group": 1,
@@ -6647,7 +6529,7 @@
         49
       ],
       "additionalNumber": 41,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1299558,
       "prizes": [
         {
           "group": 1,
@@ -6869,7 +6751,7 @@
         49
       ],
       "additionalNumber": 46,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 6326700,
       "prizes": [
         {
           "group": 1,
@@ -6943,7 +6825,7 @@
         40
       ],
       "additionalNumber": 28,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3170078,
       "prizes": [
         {
           "group": 1,
@@ -7017,7 +6899,7 @@
         49
       ],
       "additionalNumber": 31,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1373831,
       "prizes": [
         {
           "group": 1,
@@ -7165,7 +7047,7 @@
         42
       ],
       "additionalNumber": 9,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1440340,
       "prizes": [
         {
           "group": 1,
@@ -7757,7 +7639,7 @@
         49
       ],
       "additionalNumber": 4,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3378445,
       "prizes": [
         {
           "group": 1,
@@ -7831,7 +7713,7 @@
         46
       ],
       "additionalNumber": 48,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1347957,
       "prizes": [
         {
           "group": 1,
@@ -7979,7 +7861,7 @@
         40
       ],
       "additionalNumber": 37,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3032056,
       "prizes": [
         {
           "group": 1,
@@ -8053,7 +7935,7 @@
         49
       ],
       "additionalNumber": 4,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1246941,
       "prizes": [
         {
           "group": 1,
@@ -8201,7 +8083,7 @@
         46
       ],
       "additionalNumber": 18,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3231518,
       "prizes": [
         {
           "group": 1,
@@ -8275,7 +8157,7 @@
         49
       ],
       "additionalNumber": 39,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1296161,
       "prizes": [
         {
           "group": 1,
@@ -8423,7 +8305,7 @@
         32
       ],
       "additionalNumber": 42,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3064661,
       "prizes": [
         {
           "group": 1,
@@ -8497,7 +8379,7 @@
         49
       ],
       "additionalNumber": 45,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1318381,
       "prizes": [
         {
           "group": 1,
@@ -8645,7 +8527,7 @@
         46
       ],
       "additionalNumber": 23,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3106928,
       "prizes": [
         {
           "group": 1,
@@ -8719,7 +8601,7 @@
         49
       ],
       "additionalNumber": 13,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1271840,
       "prizes": [
         {
           "group": 1,
@@ -8867,7 +8749,7 @@
         24
       ],
       "additionalNumber": 35,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2900641,
       "prizes": [
         {
           "group": 1,
@@ -8941,7 +8823,7 @@
         42
       ],
       "additionalNumber": 23,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1236587,
       "prizes": [
         {
           "group": 1,
@@ -9237,7 +9119,7 @@
         48
       ],
       "additionalNumber": 30,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5989171,
       "prizes": [
         {
           "group": 1,
@@ -9311,7 +9193,7 @@
         34
       ],
       "additionalNumber": 28,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2925285,
       "prizes": [
         {
           "group": 1,
@@ -9385,7 +9267,7 @@
         44
       ],
       "additionalNumber": 36,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1241685,
       "prizes": [
         {
           "group": 1,
@@ -9607,7 +9489,7 @@
         47
       ],
       "additionalNumber": 36,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1165387,
       "prizes": [
         {
           "group": 1,
@@ -9755,7 +9637,7 @@
         38
       ],
       "additionalNumber": 22,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5646192,
       "prizes": [
         {
           "group": 1,
@@ -9829,7 +9711,7 @@
         48
       ],
       "additionalNumber": 10,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2905051,
       "prizes": [
         {
           "group": 1,
@@ -9903,7 +9785,7 @@
         39
       ],
       "additionalNumber": 30,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1218047,
       "prizes": [
         {
           "group": 1,
@@ -10051,7 +9933,7 @@
         48
       ],
       "additionalNumber": 28,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1227298,
       "prizes": [
         {
           "group": 1,
@@ -10199,7 +10081,7 @@
         40
       ],
       "additionalNumber": 14,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2902732,
       "prizes": [
         {
           "group": 1,
@@ -10273,7 +10155,7 @@
         47
       ],
       "additionalNumber": 1,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1253146,
       "prizes": [
         {
           "group": 1,
@@ -10421,7 +10303,7 @@
         38
       ],
       "additionalNumber": 21,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2993226,
       "prizes": [
         {
           "group": 1,
@@ -10495,7 +10377,7 @@
         49
       ],
       "additionalNumber": 12,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1216034,
       "prizes": [
         {
           "group": 1,
@@ -10643,7 +10525,7 @@
         43
       ],
       "additionalNumber": 2,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2991350,
       "prizes": [
         {
           "group": 1,
@@ -10717,7 +10599,7 @@
         39
       ],
       "additionalNumber": 16,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1286240,
       "prizes": [
         {
           "group": 1,
@@ -11013,7 +10895,7 @@
         41
       ],
       "additionalNumber": 12,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1270684,
       "prizes": [
         {
           "group": 1,
@@ -11235,7 +11117,7 @@
         49
       ],
       "additionalNumber": 31,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2984677,
       "prizes": [
         {
           "group": 1,
@@ -11309,7 +11191,7 @@
         43
       ],
       "additionalNumber": 22,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1223520,
       "prizes": [
         {
           "group": 1,
@@ -11531,7 +11413,7 @@
         49
       ],
       "additionalNumber": 33,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3011504,
       "prizes": [
         {
           "group": 1,
@@ -11605,7 +11487,7 @@
         47
       ],
       "additionalNumber": 44,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1277246,
       "prizes": [
         {
           "group": 1,
@@ -11753,7 +11635,7 @@
         41
       ],
       "additionalNumber": 10,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3014770,
       "prizes": [
         {
           "group": 1,
@@ -11827,7 +11709,7 @@
         40
       ],
       "additionalNumber": 6,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1241697,
       "prizes": [
         {
           "group": 1,
@@ -11975,7 +11857,7 @@
         44
       ],
       "additionalNumber": 33,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1235719,
       "prizes": [
         {
           "group": 1,
@@ -12197,7 +12079,7 @@
         49
       ],
       "additionalNumber": 25,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1250979,
       "prizes": [
         {
           "group": 1,
@@ -12419,7 +12301,7 @@
         41
       ],
       "additionalNumber": 21,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1204360,
       "prizes": [
         {
           "group": 1,
@@ -12863,7 +12745,7 @@
         43
       ],
       "additionalNumber": 6,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1209075,
       "prizes": [
         {
           "group": 1,
@@ -13011,7 +12893,7 @@
         48
       ],
       "additionalNumber": 24,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2921616,
       "prizes": [
         {
           "group": 1,
@@ -13085,7 +12967,7 @@
         49
       ],
       "additionalNumber": 42,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1202785,
       "prizes": [
         {
           "group": 1,
@@ -13233,7 +13115,7 @@
         37
       ],
       "additionalNumber": 36,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5862228,
       "prizes": [
         {
           "group": 1,
@@ -13307,7 +13189,7 @@
         46
       ],
       "additionalNumber": 7,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2929623,
       "prizes": [
         {
           "group": 1,
@@ -13381,7 +13263,7 @@
         45
       ],
       "additionalNumber": 30,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1236840,
       "prizes": [
         {
           "group": 1,
@@ -13529,7 +13411,7 @@
         37
       ],
       "additionalNumber": 23,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2892467,
       "prizes": [
         {
           "group": 1,
@@ -13603,7 +13485,7 @@
         47
       ],
       "additionalNumber": 49,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1172546,
       "prizes": [
         {
           "group": 1,
@@ -13751,7 +13633,7 @@
         47
       ],
       "additionalNumber": 16,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1222400,
       "prizes": [
         {
           "group": 1,
@@ -13899,7 +13781,7 @@
         43
       ],
       "additionalNumber": 19,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1227655,
       "prizes": [
         {
           "group": 1,
@@ -14047,7 +13929,7 @@
         37
       ],
       "additionalNumber": 18,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1258364,
       "prizes": [
         {
           "group": 1,
@@ -14195,7 +14077,7 @@
         44
       ],
       "additionalNumber": 15,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3042146,
       "prizes": [
         {
           "group": 1,
@@ -14269,7 +14151,7 @@
         48
       ],
       "additionalNumber": 45,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1273192,
       "prizes": [
         {
           "group": 1,
@@ -14417,7 +14299,7 @@
         49
       ],
       "additionalNumber": 33,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 6210454,
       "prizes": [
         {
           "group": 1,
@@ -14491,7 +14373,7 @@
         47
       ],
       "additionalNumber": 44,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3022439,
       "prizes": [
         {
           "group": 1,
@@ -14565,7 +14447,7 @@
         44
       ],
       "additionalNumber": 3,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1303208,
       "prizes": [
         {
           "group": 1,
@@ -14713,7 +14595,7 @@
         42
       ],
       "additionalNumber": 10,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1250352,
       "prizes": [
         {
           "group": 1,
@@ -15009,7 +14891,7 @@
         39
       ],
       "additionalNumber": 41,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1574925,
       "prizes": [
         {
           "group": 1,
@@ -15157,7 +15039,7 @@
         37
       ],
       "additionalNumber": 13,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1305375,
       "prizes": [
         {
           "group": 1,
@@ -15379,7 +15261,7 @@
         49
       ],
       "additionalNumber": 20,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1246320,
       "prizes": [
         {
           "group": 1,
@@ -15527,7 +15409,7 @@
         41
       ],
       "additionalNumber": 43,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1252099,
       "prizes": [
         {
           "group": 1,
@@ -15749,7 +15631,7 @@
         38
       ],
       "additionalNumber": 37,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1231707,
       "prizes": [
         {
           "group": 1,
@@ -15971,7 +15853,7 @@
         41
       ],
       "additionalNumber": 15,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1270375,
       "prizes": [
         {
           "group": 1,
@@ -16119,7 +16001,7 @@
         40
       ],
       "additionalNumber": 18,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 12791400,
       "prizes": [
         {
           "group": 1,
@@ -16193,7 +16075,7 @@
         38
       ],
       "additionalNumber": 44,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5608361,
       "prizes": [
         {
           "group": 1,
@@ -16267,7 +16149,7 @@
         42
       ],
       "additionalNumber": 5,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2788861,
       "prizes": [
         {
           "group": 1,
@@ -16341,7 +16223,7 @@
         47
       ],
       "additionalNumber": 31,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1200779,
       "prizes": [
         {
           "group": 1,
@@ -16489,7 +16371,7 @@
         38
       ],
       "additionalNumber": 22,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1248887,
       "prizes": [
         {
           "group": 1,
@@ -16785,7 +16667,7 @@
         28
       ],
       "additionalNumber": 47,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2788164,
       "prizes": [
         {
           "group": 1,
@@ -16859,7 +16741,7 @@
         37
       ],
       "additionalNumber": 22,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1142918,
       "prizes": [
         {
           "group": 1,
@@ -17007,7 +16889,7 @@
         40
       ],
       "additionalNumber": 45,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1197729,
       "prizes": [
         {
           "group": 1,
@@ -17303,7 +17185,7 @@
         45
       ],
       "additionalNumber": 48,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2810310,
       "prizes": [
         {
           "group": 1,
@@ -17377,7 +17259,7 @@
         37
       ],
       "additionalNumber": 8,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1224659,
       "prizes": [
         {
           "group": 1,
@@ -17599,7 +17481,7 @@
         46
       ],
       "additionalNumber": 43,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1236108,
       "prizes": [
         {
           "group": 1,
@@ -17747,7 +17629,7 @@
         42
       ],
       "additionalNumber": 16,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1231099,
       "prizes": [
         {
           "group": 1,
@@ -17895,7 +17777,7 @@
         38
       ],
       "additionalNumber": 9,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5597762,
       "prizes": [
         {
           "group": 1,
@@ -17969,7 +17851,7 @@
         43
       ],
       "additionalNumber": 25,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2865773,
       "prizes": [
         {
           "group": 1,
@@ -18043,7 +17925,7 @@
         49
       ],
       "additionalNumber": 37,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1114416,
       "prizes": [
         {
           "group": 1,
@@ -18191,7 +18073,7 @@
         45
       ],
       "additionalNumber": 28,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5549240,
       "prizes": [
         {
           "group": 1,
@@ -18265,7 +18147,7 @@
         48
       ],
       "additionalNumber": 17,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2818226,
       "prizes": [
         {
           "group": 1,
@@ -18339,7 +18221,7 @@
         46
       ],
       "additionalNumber": 37,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1154049,
       "prizes": [
         {
           "group": 1,
@@ -18487,7 +18369,7 @@
         48
       ],
       "additionalNumber": 47,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1156555,
       "prizes": [
         {
           "group": 1,
@@ -18635,7 +18517,7 @@
         41
       ],
       "additionalNumber": 9,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1166380,
       "prizes": [
         {
           "group": 1,
@@ -18783,7 +18665,7 @@
         47
       ],
       "additionalNumber": 12,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1180106,
       "prizes": [
         {
           "group": 1,
@@ -18931,7 +18813,7 @@
         45
       ],
       "additionalNumber": 12,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2747714,
       "prizes": [
         {
           "group": 1,
@@ -19005,7 +18887,7 @@
         49
       ],
       "additionalNumber": 16,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1129647,
       "prizes": [
         {
           "group": 1,
@@ -19153,7 +19035,7 @@
         45
       ],
       "additionalNumber": 6,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1306125,
       "prizes": [
         {
           "group": 1,
@@ -19301,7 +19183,7 @@
         44
       ],
       "additionalNumber": 45,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1209435,
       "prizes": [
         {
           "group": 1,
@@ -19597,7 +19479,7 @@
         41
       ],
       "additionalNumber": 24,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1262566,
       "prizes": [
         {
           "group": 1,
@@ -19745,7 +19627,7 @@
         49
       ],
       "additionalNumber": 12,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1305295,
       "prizes": [
         {
           "group": 1,
@@ -19819,7 +19701,7 @@
         46
       ],
       "additionalNumber": 49,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 11653654,
       "prizes": [
         {
           "group": 1,
@@ -19893,7 +19775,7 @@
         44
       ],
       "additionalNumber": 31,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5746259,
       "prizes": [
         {
           "group": 1,
@@ -19967,7 +19849,7 @@
         46
       ],
       "additionalNumber": 7,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2895611,
       "prizes": [
         {
           "group": 1,
@@ -20041,7 +19923,7 @@
         46
       ],
       "additionalNumber": 48,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1222534,
       "prizes": [
         {
           "group": 1,
@@ -20189,7 +20071,7 @@
         36
       ],
       "additionalNumber": 7,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2839638,
       "prizes": [
         {
           "group": 1,
@@ -20263,7 +20145,7 @@
         48
       ],
       "additionalNumber": 19,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1172533,
       "prizes": [
         {
           "group": 1,
@@ -20411,7 +20293,7 @@
         49
       ],
       "additionalNumber": 5,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2820895,
       "prizes": [
         {
           "group": 1,
@@ -20485,7 +20367,7 @@
         48
       ],
       "additionalNumber": 20,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1200826,
       "prizes": [
         {
           "group": 1,
@@ -20633,7 +20515,7 @@
         44
       ],
       "additionalNumber": 12,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1212538,
       "prizes": [
         {
           "group": 1,
@@ -20781,7 +20663,7 @@
         42
       ],
       "additionalNumber": 30,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1232670,
       "prizes": [
         {
           "group": 1,
@@ -21003,7 +20885,7 @@
         44
       ],
       "additionalNumber": 24,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2900792,
       "prizes": [
         {
           "group": 1,
@@ -21077,7 +20959,7 @@
         49
       ],
       "additionalNumber": 46,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1239954,
       "prizes": [
         {
           "group": 1,
@@ -21225,7 +21107,7 @@
         49
       ],
       "additionalNumber": 21,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2848870,
       "prizes": [
         {
           "group": 1,
@@ -21299,7 +21181,7 @@
         40
       ],
       "additionalNumber": 20,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1157910,
       "prizes": [
         {
           "group": 1,
@@ -21447,7 +21329,7 @@
         38
       ],
       "additionalNumber": 24,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1187683,
       "prizes": [
         {
           "group": 1,
@@ -21595,7 +21477,7 @@
         47
       ],
       "additionalNumber": 27,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2840241,
       "prizes": [
         {
           "group": 1,
@@ -21669,7 +21551,7 @@
         45
       ],
       "additionalNumber": 1,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1214349,
       "prizes": [
         {
           "group": 1,
@@ -21891,7 +21773,7 @@
         40
       ],
       "additionalNumber": 7,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 5662623,
       "prizes": [
         {
           "group": 1,
@@ -21965,7 +21847,7 @@
         38
       ],
       "additionalNumber": 37,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2928902,
       "prizes": [
         {
           "group": 1,
@@ -22039,7 +21921,7 @@
         42
       ],
       "additionalNumber": 22,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1212847,
       "prizes": [
         {
           "group": 1,
@@ -22187,7 +22069,7 @@
         45
       ],
       "additionalNumber": 11,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 2971217,
       "prizes": [
         {
           "group": 1,
@@ -22261,7 +22143,7 @@
         45
       ],
       "additionalNumber": 1,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1273058,
       "prizes": [
         {
           "group": 1,
@@ -22409,7 +22291,7 @@
         48
       ],
       "additionalNumber": 11,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1299332,
       "prizes": [
         {
           "group": 1,
@@ -22557,7 +22439,7 @@
         41
       ],
       "additionalNumber": 18,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3061121,
       "prizes": [
         {
           "group": 1,
@@ -22631,7 +22513,7 @@
         46
       ],
       "additionalNumber": 25,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1272688,
       "prizes": [
         {
           "group": 1,
@@ -22779,7 +22661,7 @@
         47
       ],
       "additionalNumber": 10,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1356758,
       "prizes": [
         {
           "group": 1,
@@ -23075,7 +22957,7 @@
         45
       ],
       "additionalNumber": 13,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 3359258,
       "prizes": [
         {
           "group": 1,
@@ -23149,7 +23031,7 @@
         49
       ],
       "additionalNumber": 3,
-      "jackpotAmount": 2500000,
+      "jackpotAmount": 1291252,
       "prizes": [
         {
           "group": 1,

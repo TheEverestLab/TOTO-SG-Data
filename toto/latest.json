@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-01-17T14:34:22.010+08:00",
+  "lastUpdated": "2026-01-18T14:45:54.136+08:00",
   "draws": [
     {
       "id": "TOTO-4148",
@@ -24,15 +24,7 @@
           "prizeAmount": 1250153,
           "numberOfWinners": 1,
           "shareAmount": null,
-          "winningOutlets": [
-            {
-              "outletName": "Tan Ah Leck Trading",
-              "outletAddress": "Bukit Batok Street 11 - Block 151 Bukit Batok Street 11 #01-254",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 2,
@@ -40,22 +32,7 @@
           "prizeAmount": 87731,
           "numberOfWinners": 3,
           "shareAmount": null,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 8",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 3,
@@ -99,9 +76,5 @@
         }
       ]
     }
-  ],
-  "nextDraw": {
-    "nextDrawDate": "Mon, 19 Jan 2026",
-    "nextDrawEstimatedJackpot": 1000000
-  }
+  ]
 }
