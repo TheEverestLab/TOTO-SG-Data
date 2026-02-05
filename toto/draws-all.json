@@ -1,8 +1,97 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-02-02T11:22:29.136+08:00",
-  "totalDraws": 322,
+  "lastUpdated": "2026-02-05T11:11:07.267+08:00",
+  "totalDraws": 323,
   "draws": [
+    {
+      "id": "TOTO-4154",
+      "gameType": "TOTO",
+      "drawNumber": 4154,
+      "drawDate": "2026-02-05",
+      "winningNumbers": [
+        6,
+        18,
+        24,
+        26,
+        36,
+        48
+      ],
+      "additionalNumber": 5,
+      "jackpotAmount": 3225180,
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 200575,
+          "numberOfWinners": 2,
+          "shareAmount": null,
+          "winningOutlets": [
+            {
+              "outletName": "NTUC FairPrice Hougang Mall",
+              "outletAddress": "90 Hougang Avenue 10 #B1-07 Hougang Mall",
+              "betType": "Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Teo Sook Cheng Agency",
+              "outletAddress": "Block 293 Yishun Street 22 #01-225",
+              "betType": "Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1232,
+          "numberOfWinners": 224,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 322,
+          "numberOfWinners": 468,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 9237,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 13654,
+          "shareAmount": null,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 154628,
+          "shareAmount": null,
+          "winningOutlets": []
+        }
+      ]
+    },
     {
       "id": "TOTO-4153",
       "gameType": "TOTO",
@@ -48245,7 +48334,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Thu, 05 Feb 2026",
-    "nextDrawEstimatedJackpot": 2500000
+    "nextDrawDate": "Mon, 09 Feb 2026",
+    "nextDrawEstimatedJackpot": 4500000
   }
 }
