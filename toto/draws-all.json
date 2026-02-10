@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-02-10T14:56:03.651+08:00",
+  "lastUpdated": "2026-02-10T15:19:57.232+08:00",
   "totalDraws": 324,
   "draws": [
     {
@@ -17,14 +17,14 @@
         49
       ],
       "additionalNumber": 30,
-      "jackpotAmount": 3263539,
+      "jackpotAmount": 6527078,
       "prizes": [
         {
           "group": 1,
           "prizeType": "Group 1",
-          "prizeAmount": 3263539,
+          "prizeAmount": 6527078,
           "numberOfWinners": 2,
-          "shareAmount": null,
+          "shareAmount": 3263539,
           "winningOutlets": [
             {
               "outletName": "Laura's Gifts",
@@ -185,9 +185,9 @@
         {
           "group": 2,
           "prizeType": "Group 2",
-          "prizeAmount": 231713,
+          "prizeAmount": 695139,
           "numberOfWinners": 3,
-          "shareAmount": null,
+          "shareAmount": 231713,
           "winningOutlets": [
             {
               "outletName": "Singapore Pools King George's Ave Branch",
@@ -217,7 +217,7 @@
           "prizeType": "Group 3",
           "prizeAmount": 1079,
           "numberOfWinners": 443,
-          "shareAmount": null,
+          "shareAmount": 1079,
           "winningOutlets": []
         },
         {
@@ -225,7 +225,7 @@
           "prizeType": "Group 4",
           "prizeAmount": 395,
           "numberOfWinners": 660,
-          "shareAmount": null,
+          "shareAmount": 395,
           "winningOutlets": []
         },
         {
@@ -233,7 +233,7 @@
           "prizeType": "Group 5",
           "prizeAmount": 50,
           "numberOfWinners": 15654,
-          "shareAmount": null,
+          "shareAmount": 50,
           "winningOutlets": []
         },
         {
@@ -241,7 +241,7 @@
           "prizeType": "Group 6",
           "prizeAmount": 25,
           "numberOfWinners": 21400,
-          "shareAmount": null,
+          "shareAmount": 25,
           "winningOutlets": []
         },
         {
@@ -249,7 +249,7 @@
           "prizeType": "Group 7",
           "prizeAmount": 10,
           "numberOfWinners": 277069,
-          "shareAmount": null,
+          "shareAmount": 10,
           "winningOutlets": []
         }
       ]
