@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-02-16T11:12:22.341+08:00",
+  "lastUpdated": "2026-02-16T11:34:10.369+08:00",
   "totalDraws": 326,
   "draws": [
     {
@@ -25,7 +25,15 @@
           "prizeAmount": 6188268,
           "numberOfWinners": 1,
           "shareAmount": 6188268,
-          "winningOutlets": []
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick System 9",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 2,
@@ -33,7 +41,29 @@
           "prizeAmount": 1302795,
           "numberOfWinners": 15,
           "shareAmount": 86853,
-          "winningOutlets": []
+          "winningOutlets": [
+            {
+              "outletName": "NTUC FairPrice AMK Hub",
+              "outletAddress": "53 Ang Mo Kio Avenue 3 #B2-40 AMK Hub",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "NTUC FairPrice Le Quest",
+              "outletAddress": "4 Bukit Batok Street 41 #01-91/92 Le Quest",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Teck Whye Branch",
+              "outletAddress": "Block 141 Teck Whye Lane #01-271",
+              "betType": "System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 3,
@@ -48952,7 +48982,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Mon, 16 Feb 2026",
+    "nextDrawDate": "Thu, 19 Feb 2026",
     "nextDrawEstimatedJackpot": 1000000
   }
 }
