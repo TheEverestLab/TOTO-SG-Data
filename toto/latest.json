@@ -1,21 +1,21 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-02-13T15:14:19.388+08:00",
+  "lastUpdated": "2026-02-16T11:12:22.341+08:00",
   "draws": [
     {
-      "id": "TOTO-4156",
+      "id": "TOTO-4157",
       "gameType": "TOTO",
-      "drawNumber": 4156,
-      "drawDate": "2026-02-13",
+      "drawNumber": 4157,
+      "drawDate": "2026-02-16",
       "winningNumbers": [
-        10,
-        15,
-        25,
-        43,
-        45,
-        49
+        13,
+        24,
+        28,
+        34,
+        37,
+        44
       ],
-      "additionalNumber": 4,
+      "additionalNumber": 29,
       "jackpotAmount": 6188268,
       "prizes": [
         {
@@ -24,15 +24,7 @@
           "prizeAmount": 6188268,
           "numberOfWinners": 1,
           "shareAmount": 6188268,
-          "winningOutlets": [
-            {
-              "outletName": "NTUC FairPrice NEX",
-              "outletAddress": "23 Serangoon Central #03-42 NEX",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 2,
@@ -40,218 +32,7 @@
           "prizeAmount": 1302795,
           "numberOfWinners": 15,
           "shareAmount": 86853,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 9",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 8",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Clifford Gift Shop",
-              "outletAddress": "Block 532 Ang Mo Kio Avenue 10 #01-2459",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Bedok Town Centre Branch",
-              "outletAddress": "Block 204 Bedok North Street 1 #01-415",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Clementi N3 Branch",
-              "outletAddress": "Block 325 Clementi Avenue 5 #01-145",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Hougang N1 Branch",
-              "outletAddress": "Block 106 Hougang Avenue 1 #01-1209/1211",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Cheng Chew Wah Agency",
-              "outletAddress": "Marine Terrace - Block 58 Marine Terrace #01-47",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Kis Store",
-              "outletAddress": "Block 4 Changi Village Road #01-2074",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Bukit Panjang Branch",
-              "outletAddress": "Block 257 Bangkit Road #01-49",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Tan Ah Leck Trading",
-              "outletAddress": "Bukit Batok Street 11 - Block 151 Bukit Batok Street 11 #01-254",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 9",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Online",
-              "shareCount": null
-            },
-            {
-              "outletName": "Golden Lagoon Trading",
-              "outletAddress": "Block 136 Marsiling Road #01-2182",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Livewire Singapore Pools",
-              "outletAddress": "210 Middle Road #01-01 Singapore Pools Building",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Majestic Betting Centre",
-              "outletAddress": "Lottery Lobby (Public) - 80 Eu Tong Sen Street #01 The Majestic",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Nalayanee Trading Enterprise",
-              "outletAddress": "127 Upper Paya Lebar Road",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "NTUC FairPrice Punggol Oasis Terraces",
-              "outletAddress": "681 Punggol Drive #B1-01 Oasis Terraces",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "NTUC FairPrice Tampines Mall",
-              "outletAddress": "4 Tampines Central 5 #B1-12 Tampines Mall",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "NTUC FairPrice The Woodgrove",
-              "outletAddress": "30 Woodlands Avenue 1 #01-11C The Woodgrove",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "OCN (Singapore) Pte Ltd",
-              "outletAddress": "Block 501 West Coast Drive #01-266",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Ang Mo Kio N6 Branch",
-              "outletAddress": "Block 630 Ang Mo Kio Avenue 4 #01-968",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Bukit Gombak Branch",
-              "outletAddress": "Block 374 Bukit Batok Street 31 #01-170",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Circuit Road 88 Branch",
-              "outletAddress": "Block 88 Circuit Road #01-961",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Teban Gardens Branch",
-              "outletAddress": "Block 37 Teban Gardens Road #01-308",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Toa Payoh Lorong 1 Branch",
-              "outletAddress": "Block 111 Toa Payoh Lorong 1 #01-354",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Woodlands N5 Branch",
-              "outletAddress": "548 Woodlands Drive 44 #02-04 Vista Point",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Woodlands N8 Branch",
-              "outletAddress": "Block 883 Woodlands Street 82 #02-468",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Vitatron & Medical Co",
-              "outletAddress": "60 Smith Street",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 3,
