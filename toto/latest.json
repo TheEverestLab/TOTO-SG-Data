@@ -1,60 +1,104 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-02-16T11:12:22.341+08:00",
+  "lastUpdated": "2026-02-19T11:13:17.900+08:00",
   "draws": [
     {
-      "id": "TOTO-4157",
+      "id": "TOTO-4158",
       "gameType": "TOTO",
-      "drawNumber": 4157,
-      "drawDate": "2026-02-16",
+      "drawNumber": 4158,
+      "drawDate": "2026-02-19",
       "winningNumbers": [
-        13,
-        24,
-        28,
+        8,
+        16,
+        17,
         34,
-        37,
-        44
+        38,
+        48
       ],
-      "additionalNumber": 29,
-      "jackpotAmount": 6188268,
+      "additionalNumber": 25,
+      "jackpotAmount": 1474367,
       "prizes": [
         {
           "group": 1,
           "prizeType": "Group 1",
-          "prizeAmount": 6188268,
+          "prizeAmount": 1474367,
           "numberOfWinners": 1,
-          "shareAmount": 6188268,
-          "winningOutlets": []
+          "shareAmount": 1474367,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Bishan N2 Branch",
+              "outletAddress": "Block 279 Bishan Street 24 #01-52",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 2,
           "prizeType": "Group 2",
-          "prizeAmount": 1302795,
-          "numberOfWinners": 15,
-          "shareAmount": 86853,
-          "winningOutlets": []
+          "prizeAmount": 310395,
+          "numberOfWinners": 5,
+          "shareAmount": 62079,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Hougang N3 Branch",
+              "outletAddress": "Block 322 Hougang Avenue 5 #01-70",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Toa Payoh Lorong 8 Branch",
+              "outletAddress": "Block 212 Toa Payoh Lorong 8 #01-39",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "System 8",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 3,
           "prizeType": "Group 3",
-          "prizeAmount": 1795,
-          "numberOfWinners": 499,
-          "shareAmount": 1795,
+          "prizeAmount": 1482,
+          "numberOfWinners": 144,
+          "shareAmount": 1482,
           "winningOutlets": []
         },
         {
           "group": 4,
           "prizeType": "Group 4",
-          "prizeAmount": 379,
-          "numberOfWinners": 1292,
-          "shareAmount": 379,
+          "prizeAmount": 387,
+          "numberOfWinners": 301,
+          "shareAmount": 387,
           "winningOutlets": []
         },
         {
           "group": 5,
           "prizeType": "Group 5",
           "prizeAmount": 50,
-          "numberOfWinners": 26860,
+          "numberOfWinners": 6849,
           "shareAmount": 50,
           "winningOutlets": []
         },
@@ -62,7 +106,7 @@
           "group": 6,
           "prizeType": "Group 6",
           "prizeAmount": 25,
-          "numberOfWinners": 35730,
+          "numberOfWinners": 8379,
           "shareAmount": 25,
           "winningOutlets": []
         },
@@ -70,7 +114,7 @@
           "group": 7,
           "prizeType": "Group 7",
           "prizeAmount": 10,
-          "numberOfWinners": 492757,
+          "numberOfWinners": 123806,
           "shareAmount": 10,
           "winningOutlets": []
         }
@@ -78,7 +122,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Mon, 16 Feb 2026",
+    "nextDrawDate": "Mon, 23 Feb 2026",
     "nextDrawEstimatedJackpot": 1000000
   }
 }
