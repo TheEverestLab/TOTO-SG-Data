@@ -1,21 +1,21 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-02-19T11:13:17.900+08:00",
+  "lastUpdated": "2026-02-23T10:52:58.759+08:00",
   "draws": [
     {
-      "id": "TOTO-4158",
+      "id": "TOTO-4159",
       "gameType": "TOTO",
-      "drawNumber": 4158,
-      "drawDate": "2026-02-19",
+      "drawNumber": 4159,
+      "drawDate": "2026-02-23",
       "winningNumbers": [
-        8,
-        16,
-        17,
-        34,
-        38,
-        48
+        24,
+        26,
+        30,
+        32,
+        37,
+        47
       ],
-      "additionalNumber": 25,
+      "additionalNumber": 2,
       "jackpotAmount": 1474367,
       "prizes": [
         {
@@ -24,15 +24,7 @@
           "prizeAmount": 1474367,
           "numberOfWinners": 1,
           "shareAmount": 1474367,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Bishan N2 Branch",
-              "outletAddress": "Block 279 Bishan Street 24 #01-52",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 2,
@@ -40,43 +32,7 @@
           "prizeAmount": 310395,
           "numberOfWinners": 5,
           "shareAmount": 62079,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Hougang N3 Branch",
-              "outletAddress": "Block 322 Hougang Avenue 5 #01-70",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Toa Payoh Lorong 8 Branch",
-              "outletAddress": "Block 212 Toa Payoh Lorong 8 #01-39",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 8",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 3,
