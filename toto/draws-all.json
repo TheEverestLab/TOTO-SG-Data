@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-02-23T10:52:58.759+08:00",
+  "lastUpdated": "2026-02-23T11:33:47.136+08:00",
   "totalDraws": 328,
   "draws": [
     {
@@ -25,7 +25,22 @@
           "prizeAmount": 1474367,
           "numberOfWinners": 1,
           "shareAmount": 1474367,
-          "winningOutlets": []
+          "winningOutlets": [
+            {
+              "outletName": "Clifford Gift Shop",
+              "outletAddress": "Block 532 Ang Mo Kio Avenue 10 #01-2459",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 2,
@@ -33,7 +48,22 @@
           "prizeAmount": 310395,
           "numberOfWinners": 5,
           "shareAmount": 62079,
-          "winningOutlets": []
+          "winningOutlets": [
+            {
+              "outletName": "Everstream Trading",
+              "outletAddress": "Block 283 Bukit Batok East Avenue 3 #01-281",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Ng Teo Guan Self Service",
+              "outletAddress": "Block 301 Ubi Avenue 1 #01-241",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 3,
@@ -49174,7 +49204,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Mon, 23 Feb 2026",
-    "nextDrawEstimatedJackpot": 1000000
+    "nextDrawDate": "Fri, 27 Feb 2026",
+    "nextDrawEstimatedJackpot": 12000000
   }
 }
