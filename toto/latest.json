@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-02-23T10:52:58.759+08:00",
+  "lastUpdated": "2026-02-27T11:09:52.716+08:00",
   "draws": [
     {
       "id": "TOTO-4159",
@@ -16,45 +16,75 @@
         47
       ],
       "additionalNumber": 2,
-      "jackpotAmount": 1474367,
+      "jackpotAmount": 1787436,
       "prizes": [
         {
           "group": 1,
           "prizeType": "Group 1",
-          "prizeAmount": 1474367,
-          "numberOfWinners": 1,
-          "shareAmount": 1474367,
-          "winningOutlets": []
+          "prizeAmount": 1787436,
+          "numberOfWinners": 2,
+          "shareAmount": 893718,
+          "winningOutlets": [
+            {
+              "outletName": "Clifford Gift Shop",
+              "outletAddress": "Block 532 Ang Mo Kio Avenue 10 #01-2459",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 2,
           "prizeType": "Group 2",
-          "prizeAmount": 310395,
-          "numberOfWinners": 5,
-          "shareAmount": 62079,
-          "winningOutlets": []
+          "prizeAmount": 376304,
+          "numberOfWinners": 2,
+          "shareAmount": 188152,
+          "winningOutlets": [
+            {
+              "outletName": "Everstream Trading",
+              "outletAddress": "Block 283 Bukit Batok East Avenue 3 #01-281",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Ng Teo Guan Self Service",
+              "outletAddress": "Block 301 Ubi Avenue 1 #01-241",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 3,
           "prizeType": "Group 3",
-          "prizeAmount": 1482,
-          "numberOfWinners": 144,
-          "shareAmount": 1482,
+          "prizeAmount": 2562,
+          "numberOfWinners": 101,
+          "shareAmount": 2562,
           "winningOutlets": []
         },
         {
           "group": 4,
           "prizeType": "Group 4",
-          "prizeAmount": 387,
-          "numberOfWinners": 301,
-          "shareAmount": 387,
+          "prizeAmount": 453,
+          "numberOfWinners": 312,
+          "shareAmount": 453,
           "winningOutlets": []
         },
         {
           "group": 5,
           "prizeType": "Group 5",
           "prizeAmount": 50,
-          "numberOfWinners": 6849,
+          "numberOfWinners": 6204,
           "shareAmount": 50,
           "winningOutlets": []
         },
@@ -62,7 +92,7 @@
           "group": 6,
           "prizeType": "Group 6",
           "prizeAmount": 25,
-          "numberOfWinners": 8379,
+          "numberOfWinners": 9583,
           "shareAmount": 25,
           "winningOutlets": []
         },
@@ -70,7 +100,7 @@
           "group": 7,
           "prizeType": "Group 7",
           "prizeAmount": 10,
-          "numberOfWinners": 123806,
+          "numberOfWinners": 122832,
           "shareAmount": 10,
           "winningOutlets": []
         }
@@ -78,7 +108,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Mon, 23 Feb 2026",
-    "nextDrawEstimatedJackpot": 1000000
+    "nextDrawDate": "Fri, 27 Feb 2026",
+    "nextDrawEstimatedJackpot": 12000000
   }
 }
