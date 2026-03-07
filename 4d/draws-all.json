@@ -1,8 +1,81 @@
 {
   "gameType": "4D",
-  "lastUpdated": "2026-03-04T13:19:00.454+08:00",
-  "totalDraws": 495,
+  "lastUpdated": "2026-03-07T11:01:04.305+08:00",
+  "totalDraws": 496,
   "draws": [
+    {
+      "id": "4D-5453",
+      "gameType": "4D",
+      "drawNumber": 5453,
+      "drawDate": "2026-03-07",
+      "winningNumbers": [
+        4146
+      ],
+      "firstPrize": "4146",
+      "secondPrize": "7483",
+      "thirdPrize": "9274",
+      "starterPrizes": [
+        "0456",
+        "1007",
+        "1255",
+        "3053",
+        "4227",
+        "4271",
+        "6558",
+        "7853",
+        "8388",
+        "9182"
+      ],
+      "consolationPrizes": [
+        "0785",
+        "1427",
+        "2391",
+        "3206",
+        "4573",
+        "6337",
+        "6836",
+        "8642",
+        "9098",
+        "9321"
+      ],
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "1st Prize",
+          "prizeAmount": 2000,
+          "numberOfWinners": 1,
+          "shareAmount": 2000
+        },
+        {
+          "group": 2,
+          "prizeType": "2nd Prize",
+          "prizeAmount": 1000,
+          "numberOfWinners": 1,
+          "shareAmount": 1000
+        },
+        {
+          "group": 3,
+          "prizeType": "3rd Prize",
+          "prizeAmount": 490,
+          "numberOfWinners": 1,
+          "shareAmount": 490
+        },
+        {
+          "group": 4,
+          "prizeType": "Starter Prize",
+          "prizeAmount": 250,
+          "numberOfWinners": 10,
+          "shareAmount": 250
+        },
+        {
+          "group": 5,
+          "prizeType": "Consolation Prize",
+          "prizeAmount": 60,
+          "numberOfWinners": 10,
+          "shareAmount": 60
+        }
+      ]
+    },
     {
       "id": "4D-5452",
       "gameType": "4D",
