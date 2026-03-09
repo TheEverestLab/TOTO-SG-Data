@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-03-09T11:22:05.451+08:00",
+  "lastUpdated": "2026-03-09T11:37:06.794+08:00",
   "totalDraws": 332,
   "draws": [
     {
@@ -34,7 +34,29 @@
           "prizeAmount": 289488,
           "numberOfWinners": 3,
           "shareAmount": 96496,
-          "winningOutlets": []
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick System 8",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Ang Mo Kio N4 Branch",
+              "outletAddress": "Block 447 Ang Mo Kio Avenue 10 #01-1685",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Bukit Batok Central Branch",
+              "outletAddress": "Block 642 Bukit Batok Central #01-54/56 (part of)",
+              "betType": "System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 3,
