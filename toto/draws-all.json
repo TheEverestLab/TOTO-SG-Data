@@ -1,8 +1,120 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-03-12T11:34:31.936+08:00",
-  "totalDraws": 333,
+  "lastUpdated": "2026-03-16T11:28:49.058+08:00",
+  "totalDraws": 334,
   "draws": [
+    {
+      "id": "TOTO-4165",
+      "gameType": "TOTO",
+      "drawNumber": 4165,
+      "drawDate": "2026-03-16",
+      "winningNumbers": [
+        6,
+        14,
+        18,
+        22,
+        35,
+        36
+      ],
+      "additionalNumber": 13,
+      "jackpotAmount": 1300017,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 1300017,
+          "numberOfWinners": 1,
+          "shareAmount": 1300017,
+          "winningOutlets": [
+            {
+              "outletName": "Delisia Agency Pte Ltd",
+              "outletAddress": "149 Rochor Road #B1-26 Fu Lu Shou Complex",
+              "betType": "Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 273688,
+          "numberOfWinners": 4,
+          "shareAmount": 68422,
+          "winningOutlets": [
+            {
+              "outletName": "NTUC FairPrice VivoCity",
+              "outletAddress": "1 HarbourFront Walk #B2-23/#01-23 VivoCity",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools New Upper Changi Branch",
+              "outletAddress": "Block 26 New Upper Changi Road #01-666/668",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Bishan N2 Branch",
+              "outletAddress": "Block 279 Bishan Street 24 #01-52",
+              "betType": "System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1568,
+          "numberOfWinners": 120,
+          "shareAmount": 1568,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 383,
+          "numberOfWinners": 268,
+          "shareAmount": 383,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 5764,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 8068,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 105180,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
+    },
     {
       "id": "TOTO-4164",
       "gameType": "TOTO",
@@ -50650,7 +50762,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Mon, 16 Mar 2026",
+    "nextDrawDate": "Thu, 19 Mar 2026",
     "nextDrawEstimatedJackpot": 1000000
   }
 }
