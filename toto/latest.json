@@ -1,147 +1,83 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-04-02T11:49:53.993+08:00",
+  "lastUpdated": "2026-04-06T11:28:57.528+08:00",
   "draws": [
     {
-      "id": "TOTO-4170",
+      "id": "TOTO-4171",
       "gameType": "TOTO",
-      "drawNumber": 4170,
-      "drawDate": "2026-04-02",
+      "drawNumber": 4171,
+      "drawDate": "2026-04-06",
       "winningNumbers": [
-        1,
-        7,
-        8,
+        14,
         23,
+        29,
         30,
-        33
+        39,
+        48
       ],
-      "additionalNumber": 21,
-      "jackpotAmount": 5715685,
+      "additionalNumber": 12,
+      "jackpotAmount": 1253943,
       "resultsStatus": "final",
       "prizes": [
         {
           "group": 1,
           "prizeType": "Group 1",
-          "prizeAmount": 5715685,
-          "numberOfWinners": 1,
-          "shareAmount": 5715685,
-          "winningOutlets": [
-            {
-              "outletName": "Lee Eng Trading Store",
-              "outletAddress": "Block 201B Tampines Street 21 #01-1083",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": 0,
+          "winningOutlets": []
         },
         {
           "group": 2,
           "prizeType": "Group 2",
-          "prizeAmount": 579672,
-          "numberOfWinners": 8,
-          "shareAmount": 72459,
+          "prizeAmount": 263991,
+          "numberOfWinners": 3,
+          "shareAmount": 87997,
           "winningOutlets": [
             {
-              "outletName": "NTUC FairPrice Jurong Gateway Road",
-              "outletAddress": "Block 135 Jurong Gateway Road #01-337",
+              "outletName": "Singapore Pools Jalan Tiga Branch",
+              "outletAddress": "Block 43 Jalan Tiga #01-08",
               "betType": "QuickPick System 7",
               "purchaseMethod": "Retail",
               "shareCount": 1
             },
             {
-              "outletName": "NTUC FairPrice Punggol Plaza",
-              "outletAddress": "168 Punggol Field Road #03-01 Punggol Plaza",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Pasir Ris N7 Branch",
-              "outletAddress": "735 Pasir Ris Street 72 #01-358 Pasir Ris West Plaza",
+              "outletName": "Singapore Pools Bukit Panjang Branch",
+              "outletAddress": "Block 257 Bangkit Road #01-49",
               "betType": "QuickPick Ordinary",
               "purchaseMethod": "Retail",
               "shareCount": 1
             },
             {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 8",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "NTUC FairPrice Zhongshan Mall",
-              "outletAddress": "20 Ah Hood Road #02-01 Zhongshan Mall",
-              "betType": "System 7",
+              "outletName": "Singapore Pools Jurong West N4 Branch",
+              "outletAddress": "Block 498 Jurong West Street 41 #01-472",
+              "betType": "QuickPick Ordinary",
               "purchaseMethod": "Retail",
               "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Ghim Moh Branch",
-              "outletAddress": "Block 21 Ghim Moh Road #01-161",
-              "betType": "Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Online",
-              "shareCount": null
-            },
-            {
-              "outletName": "Jake Merchandise Associates",
-              "outletAddress": "Block 503 Tampines Central 1 #01-283",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Jurong West N5 Branch",
-              "outletAddress": "Block 508 Jurong West Street 52 #01-166",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Lucky Plaza Branch",
-              "outletAddress": "304 Orchard Road #B1-91/92 Lucky Plaza",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
             }
           ]
         },
         {
           "group": 3,
           "prizeType": "Group 3",
-          "prizeAmount": 1466,
-          "numberOfWinners": 272,
-          "shareAmount": 1466,
+          "prizeAmount": 2187,
+          "numberOfWinners": 83,
+          "shareAmount": 2187,
           "winningOutlets": []
         },
         {
           "group": 4,
           "prizeType": "Group 4",
-          "prizeAmount": 332,
-          "numberOfWinners": 656,
-          "shareAmount": 332,
+          "prizeAmount": 495,
+          "numberOfWinners": 200,
+          "shareAmount": 495,
           "winningOutlets": []
         },
         {
           "group": 5,
           "prizeType": "Group 5",
           "prizeAmount": 50,
-          "numberOfWinners": 15192,
+          "numberOfWinners": 4101,
           "shareAmount": 50,
           "winningOutlets": []
         },
@@ -149,7 +85,7 @@
           "group": 6,
           "prizeType": "Group 6",
           "prizeAmount": 25,
-          "numberOfWinners": 18226,
+          "numberOfWinners": 6887,
           "shareAmount": 25,
           "winningOutlets": []
         },
@@ -157,7 +93,7 @@
           "group": 7,
           "prizeType": "Group 7",
           "prizeAmount": 10,
-          "numberOfWinners": 263461,
+          "numberOfWinners": 82196,
           "shareAmount": 10,
           "winningOutlets": []
         }
@@ -165,8 +101,8 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Mon, 06 Apr 2026",
+    "nextDrawDate": "Thu, 09 Apr 2026",
     "nextDrawTime": "18:30",
-    "nextDrawEstimatedJackpot": 1000000
+    "nextDrawEstimatedJackpot": 2500000
   }
 }
