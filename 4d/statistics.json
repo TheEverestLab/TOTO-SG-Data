@@ -1,302 +1,302 @@
 {
   "gameType": "4D",
-  "lastUpdated": "2026-04-05T11:02:55.879Z",
+  "lastUpdated": "2026-04-08T11:32:39.775Z",
   "periods": {
     "lastMonth": {
       "name": "Last Month",
       "days": 30,
       "gameType": "4D",
-      "totalDraws": 14,
+      "totalDraws": 13,
       "dateRange": {
-        "start": "2026-03-07",
-        "end": "2026-04-05"
+        "start": "2026-03-11",
+        "end": "2026-04-08"
       },
-      "averageFrequency": 128.8,
+      "averageFrequency": 119.6,
       "hotNumbers": [
         {
           "number": 0,
-          "frequency": 148,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 144,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 143,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 3,
-          "frequency": 137,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 134,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 137,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 4,
-          "frequency": 131,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 6,
-          "frequency": 127,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 126,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
           "frequency": 126,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
-          "number": 2,
-          "frequency": 122,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "number": 3,
+          "frequency": 117,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 6,
+          "frequency": 117,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 4,
+          "frequency": 114,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 115,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 113,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 2,
+          "frequency": 110,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 102,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 95,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
       "coldNumbers": [
         {
           "number": 5,
-          "frequency": 102,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 8,
-          "frequency": 115,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 95,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 122,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 110,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 8,
+          "frequency": 113,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 4,
+          "frequency": 114,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 6,
+          "frequency": 117,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 3,
+          "frequency": 117,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
           "frequency": 126,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 6,
-          "frequency": 127,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 4,
-          "frequency": 131,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 137,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 3,
-          "frequency": 137,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 126,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 143,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 134,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 0,
-          "frequency": 148,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 144,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
       "overdueNumbers": [
         {
           "number": 0,
-          "frequency": 148,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 144,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 143,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 134,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 122,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 110,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 137,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 117,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 131,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 114,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 102,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 95,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 127,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 117,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 137,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 126,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 115,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 113,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
           "frequency": 126,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
       "allStatistics": [
         {
           "number": 0,
-          "frequency": 148,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 144,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 143,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 134,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 122,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 110,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 137,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 117,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 131,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 114,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 102,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 95,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 127,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 117,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 137,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 126,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 115,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 113,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
           "frequency": 126,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ]
@@ -307,295 +307,295 @@
       "gameType": "4D",
       "totalDraws": 39,
       "dateRange": {
-        "start": "2026-01-07",
-        "end": "2026-04-05"
+        "start": "2026-01-10",
+        "end": "2026-04-08"
       },
       "averageFrequency": 358.4,
       "hotNumbers": [
         {
           "number": 1,
-          "frequency": 386,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 388,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 376,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 377,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 0,
-          "frequency": 374,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 373,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 366,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 9,
           "frequency": 364,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 362,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 361,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 9,
+          "frequency": 359,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 344,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 347,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 343,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 340,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 336,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 339,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 333,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 336,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
       "coldNumbers": [
         {
           "number": 5,
-          "frequency": 333,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 336,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 336,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 339,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 343,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 340,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 344,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 7,
-          "frequency": 362,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 347,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 364,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 359,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 7,
+          "frequency": 361,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 366,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 364,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 0,
-          "frequency": 374,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 373,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 376,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 377,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 386,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 388,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
       "overdueNumbers": [
         {
           "number": 0,
-          "frequency": 374,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 373,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 386,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 388,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 343,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 340,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 376,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 377,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 366,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 364,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 333,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 336,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 344,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 347,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 362,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 361,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 336,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 339,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 364,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 359,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
       "allStatistics": [
         {
           "number": 0,
-          "frequency": 374,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 373,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 386,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 388,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 343,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 340,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 376,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 377,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 366,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 364,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 333,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 336,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 344,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 347,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 362,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 361,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 336,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 339,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 364,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 359,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ]
@@ -606,151 +606,151 @@
       "gameType": "4D",
       "totalDraws": 78,
       "dateRange": {
-        "start": "2025-10-08",
-        "end": "2026-04-05"
+        "start": "2025-10-11",
+        "end": "2026-04-08"
       },
       "averageFrequency": 717.2,
       "hotNumbers": [
         {
           "number": 3,
-          "frequency": 756,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 758,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 745,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 754,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 743,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 1,
-          "frequency": 740,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 739,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 737,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 738,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 1,
+          "frequency": 735,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 729,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 733,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 0,
           "frequency": 708,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 680,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 2,
-          "frequency": 668,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 679,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 666,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 665,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 2,
+          "frequency": 663,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
       "coldNumbers": [
         {
-          "number": 5,
-          "frequency": 666,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "number": 2,
+          "frequency": 663,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
-          "number": 2,
-          "frequency": 668,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "number": 5,
+          "frequency": 665,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 680,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 679,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 0,
           "frequency": 708,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 729,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 9,
-          "frequency": 737,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 733,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 740,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 735,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 9,
+          "frequency": 738,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 743,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 739,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 745,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 754,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 756,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 758,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
@@ -758,71 +758,71 @@
         {
           "number": 0,
           "frequency": 708,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 740,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 735,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 668,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 663,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 756,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 758,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 743,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 739,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 666,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 665,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 680,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 679,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 745,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 754,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 729,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 733,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 737,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 738,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
@@ -830,71 +830,71 @@
         {
           "number": 0,
           "frequency": 708,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 740,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 735,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 668,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 663,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 756,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 758,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 743,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 739,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 666,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 665,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 680,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 679,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 745,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 754,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 729,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 733,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 737,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 738,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ]
@@ -905,151 +905,151 @@
       "gameType": "4D",
       "totalDraws": 157,
       "dateRange": {
-        "start": "2025-04-06",
-        "end": "2026-04-05"
+        "start": "2025-04-09",
+        "end": "2026-04-08"
       },
       "averageFrequency": 1443.6,
       "hotNumbers": [
         {
           "number": 4,
-          "frequency": 1506,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1507,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 1471,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 7,
-          "frequency": 1457,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1472,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 1456,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1458,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 7,
+          "frequency": 1455,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 8,
+          "frequency": 1452,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
           "frequency": 1451,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 8,
-          "frequency": 1451,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 0,
           "frequency": 1445,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 1429,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 5,
-          "frequency": 1386,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1428,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
           "frequency": 1384,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 5,
+          "frequency": 1384,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
       "coldNumbers": [
         {
-          "number": 2,
+          "number": 5,
           "frequency": 1384,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
-          "number": 5,
-          "frequency": 1386,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "number": 2,
+          "frequency": 1384,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 1429,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1428,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 0,
           "frequency": 1445,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
-          "gameType": "4D"
-        },
-        {
-          "number": 8,
-          "frequency": 1451,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
           "frequency": 1451,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
-          "number": 3,
-          "frequency": 1456,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "number": 8,
+          "frequency": 1452,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 1457,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1455,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
+          "gameType": "4D"
+        },
+        {
+          "number": 3,
+          "frequency": 1458,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 1471,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1472,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 1506,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1507,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
@@ -1057,71 +1057,71 @@
         {
           "number": 0,
           "frequency": 1445,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
           "frequency": 1451,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
           "frequency": 1384,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 1456,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1458,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 1506,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1507,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 1386,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1384,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 1429,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1428,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 1457,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1455,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 1451,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1452,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 1471,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1472,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
@@ -1129,71 +1129,71 @@
         {
           "number": 0,
           "frequency": 1445,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
           "frequency": 1451,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
           "frequency": 1384,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 1456,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1458,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 1506,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1507,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 1386,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1384,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 1429,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1428,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 1457,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1455,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 1451,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1452,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 1471,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 1472,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ]
@@ -1202,297 +1202,297 @@
       "name": "All Time",
       "days": null,
       "gameType": "4D",
-      "totalDraws": 509,
+      "totalDraws": 510,
       "dateRange": {
         "start": "2023-01-07",
-        "end": "2026-04-05"
+        "end": "2026-04-08"
       },
-      "averageFrequency": 4680,
+      "averageFrequency": 4689.2,
       "hotNumbers": [
         {
           "number": 7,
-          "frequency": 4790,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4802,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 4782,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4790,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 4757,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4764,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 4742,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4753,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 4695,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4702,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 4690,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4699,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 4652,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4660,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 4641,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4654,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 0,
-          "frequency": 4614,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4625,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 4437,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4443,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
       "coldNumbers": [
         {
           "number": 2,
-          "frequency": 4437,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4443,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 0,
-          "frequency": 4614,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4625,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 4641,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4654,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 4652,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4660,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 4690,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4699,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 4695,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4702,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 4742,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4753,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 4757,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4764,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 4782,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4790,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 4790,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4802,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
       "overdueNumbers": [
         {
           "number": 0,
-          "frequency": 4614,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4625,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 4757,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4764,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 4437,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4443,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 4690,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4699,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 4782,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4790,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 4695,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4702,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 4652,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4660,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 4790,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4802,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 4641,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4654,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 4742,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4753,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ],
       "allStatistics": [
         {
           "number": 0,
-          "frequency": 4614,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4625,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 1,
-          "frequency": 4757,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4764,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 2,
-          "frequency": 4437,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4443,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 3,
-          "frequency": 4690,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4699,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 4,
-          "frequency": 4782,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4790,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 5,
-          "frequency": 4695,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4702,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 6,
-          "frequency": 4652,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4660,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 7,
-          "frequency": 4790,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4802,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 8,
-          "frequency": 4641,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4654,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         },
         {
           "number": 9,
-          "frequency": 4742,
-          "lastSeenDate": "2026-04-05",
-          "lastSeenDrawNumber": 5466,
+          "frequency": 4753,
+          "lastSeenDate": "2026-04-08",
+          "lastSeenDrawNumber": 5467,
           "gameType": "4D"
         }
       ]
