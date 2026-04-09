@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-04-09T10:48:33.484+08:00",
+  "lastUpdated": "2026-04-09T11:16:33.474+08:00",
   "totalDraws": 341,
   "draws": [
     {
@@ -17,9 +17,89 @@
         48
       ],
       "additionalNumber": 24,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 2971831,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 2971831,
+          "numberOfWinners": 1,
+          "shareAmount": 2971831,
+          "winningOutlets": [
+            {
+              "outletName": "NTUC FairPrice Telok Blangah Street 32",
+              "outletAddress": "Block 78A Telok Blangah Street 32 #01-01",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 361662,
+          "numberOfWinners": 2,
+          "shareAmount": 180831,
+          "winningOutlets": [
+            {
+              "outletName": "Sheng Siong Canberra Street",
+              "outletAddress": "Block 105 Canberra Street #02-05",
+              "betType": "QuickPick System 8",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1463,
+          "numberOfWinners": 170,
+          "shareAmount": 1463,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 297,
+          "numberOfWinners": 457,
+          "shareAmount": 297,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 9522,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 12507,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 167901,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     },
     {
       "id": "TOTO-4171",
@@ -51673,8 +51753,8 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Thu, 09 Apr 2026",
+    "nextDrawDate": "Mon, 13 Apr 2026",
     "nextDrawTime": "18:30",
-    "nextDrawEstimatedJackpot": 2500000
+    "nextDrawEstimatedJackpot": 1000000
   }
 }
