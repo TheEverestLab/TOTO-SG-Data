@@ -1,103 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-04-09T10:32:15.976+08:00",
+  "lastUpdated": "2026-04-09T10:48:33.484+08:00",
   "draws": [
     {
-      "id": "TOTO-4171",
+      "id": "TOTO-4172",
       "gameType": "TOTO",
-      "drawNumber": 4171,
-      "drawDate": "2026-04-06",
+      "drawNumber": 4172,
+      "drawDate": "2026-04-09",
       "winningNumbers": [
-        14,
-        23,
-        29,
-        30,
-        39,
+        1,
+        2,
+        6,
+        9,
+        44,
         48
       ],
-      "additionalNumber": 12,
-      "jackpotAmount": 1253943,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
-          "shareAmount": 0,
-          "winningOutlets": []
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 263991,
-          "numberOfWinners": 3,
-          "shareAmount": 87997,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Jalan Tiga Branch",
-              "outletAddress": "Block 43 Jalan Tiga #01-08",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Bukit Panjang Branch",
-              "outletAddress": "Block 257 Bangkit Road #01-49",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Jurong West N4 Branch",
-              "outletAddress": "Block 498 Jurong West Street 41 #01-472",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 2187,
-          "numberOfWinners": 83,
-          "shareAmount": 2187,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 495,
-          "numberOfWinners": 200,
-          "shareAmount": 495,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 4101,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 6887,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 82196,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 24,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
