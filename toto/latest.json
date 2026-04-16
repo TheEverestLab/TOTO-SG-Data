@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-04-16T11:00:30.381+08:00",
+  "lastUpdated": "2026-04-16T11:18:55.533+08:00",
   "draws": [
     {
       "id": "TOTO-4174",
@@ -16,14 +16,121 @@
         41
       ],
       "additionalNumber": 18,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 1239943,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 261044,
+          "numberOfWinners": 7,
+          "shareAmount": 37292,
+          "winningOutlets": [
+            {
+              "outletName": "Dawn Florist",
+              "outletAddress": "Aljunied Avenue 2 - Block 119 Aljunied Avenue 2 #01-78",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "NTUC FairPrice New Upper Changi Road",
+              "outletAddress": "Block 57 New Upper Changi Road #01-1334/1338",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "NTUC FairPrice Tanjong Pagar Plaza",
+              "outletAddress": "Block 5 Tanjong Pagar Plaza #01-01",
+              "betType": "System 8",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "System 8",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Tampines Trading",
+              "outletAddress": "828 - Block 828 Tampines Street 81 #01-234",
+              "betType": "System 8",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 898,
+          "numberOfWinners": 200,
+          "shareAmount": 898,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 187,
+          "numberOfWinners": 525,
+          "shareAmount": 187,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 8525,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 12013,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 136589,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Thu, 16 Apr 2026",
+    "nextDrawDate": "Mon, 20 Apr 2026",
     "nextDrawTime": "18:30",
-    "nextDrawEstimatedJackpot": 1000000
+    "nextDrawEstimatedJackpot": 2500000
   }
 }
