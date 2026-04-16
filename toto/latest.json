@@ -1,160 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-04-15T11:31:20.112+08:00",
+  "lastUpdated": "2026-04-16T10:52:04.220+08:00",
   "draws": [
     {
-      "id": "TOTO-4173",
+      "id": "TOTO-4174",
       "gameType": "TOTO",
-      "drawNumber": 4173,
-      "drawDate": "2026-04-13",
+      "drawNumber": 4174,
+      "drawDate": "2026-04-16",
       "winningNumbers": [
-        4,
-        8,
-        10,
-        15,
-        16,
-        26
+        1,
+        3,
+        6,
+        12,
+        21,
+        41
       ],
-      "additionalNumber": 17,
-      "jackpotAmount": 1267460,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 1267460,
-          "numberOfWinners": 5,
-          "shareAmount": 253492,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Lorong 25A Geylang Branch",
-              "outletAddress": "62 Lorong 25A Geylang Road",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "NTUC FairPrice Havelock Road",
-              "outletAddress": "Block 50 Havelock Road #01-755",
-              "betType": "System Roll",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Sheng Siong Tanglin Halt Road",
-              "outletAddress": "Block 88 Tanglin Halt Road #01-10",
-              "betType": "System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Woodlands N5 Branch",
-              "outletAddress": "548 Woodlands Drive 44 #02-04 Vista Point",
-              "betType": "Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 266838,
-          "numberOfWinners": 6,
-          "shareAmount": 44473,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Bishan N2 Branch",
-              "outletAddress": "Block 279 Bishan Street 24 #01-52",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "NTUC FairPrice Havelock Road",
-              "outletAddress": "Block 50 Havelock Road #01-755",
-              "betType": "System Roll",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Gerk Chwee Trading",
-              "outletAddress": "4 Kensington Park Road",
-              "betType": "System 8",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools IMM Branch",
-              "outletAddress": "2 Jurong East Street 21 #02-63 IMM Building",
-              "betType": "System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Pasir Ris N7 Branch",
-              "outletAddress": "735 Pasir Ris Street 72 #01-358 Pasir Ris West Plaza",
-              "betType": "System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 560,
-          "numberOfWinners": 328,
-          "shareAmount": 560,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 167,
-          "numberOfWinners": 600,
-          "shareAmount": 167,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 11656,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 12567,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 154470,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 18,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
