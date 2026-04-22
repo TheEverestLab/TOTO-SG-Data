@@ -1,6 +1,6 @@
 {
   "gameType": "4D",
-  "lastUpdated": "2026-04-22T11:31:28.877+08:00",
+  "lastUpdated": "2026-04-22T15:11:54.084+08:00",
   "draws": [
     {
       "id": "4D-5473",
@@ -75,5 +75,10 @@
         }
       ]
     }
-  ]
+  ],
+  "nextDraw": {
+    "nextDrawDate": "Sat, 25 Apr 2026",
+    "nextDrawTime": "18:30",
+    "nextDrawEstimatedJackpot": null
+  }
 }
