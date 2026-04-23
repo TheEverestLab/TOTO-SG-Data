@@ -1,8 +1,91 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-04-22T11:31:27.657+08:00",
-  "totalDraws": 344,
+  "lastUpdated": "2026-04-23T11:16:10.901+08:00",
+  "totalDraws": 345,
   "draws": [
+    {
+      "id": "TOTO-4176",
+      "gameType": "TOTO",
+      "drawNumber": 4176,
+      "drawDate": "2026-04-23",
+      "winningNumbers": [
+        3,
+        5,
+        15,
+        23,
+        37,
+        42
+      ],
+      "additionalNumber": 48,
+      "jackpotAmount": 1228056,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 258539,
+          "numberOfWinners": 1,
+          "shareAmount": 258539,
+          "winningOutlets": [
+            {
+              "outletName": "NTUC FairPrice Bedok North Street 1",
+              "outletAddress": "Block 212 Bedok North Street 1 #01-147",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1912,
+          "numberOfWinners": 93,
+          "shareAmount": 1912,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 511,
+          "numberOfWinners": 190,
+          "shareAmount": 511,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 5872,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 6058,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 112091,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
+    },
     {
       "id": "TOTO-4175",
       "gameType": "TOTO",
@@ -52165,8 +52248,8 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Thu, 23 Apr 2026",
+    "nextDrawDate": "Mon, 27 Apr 2026",
     "nextDrawTime": "18:30",
-    "nextDrawEstimatedJackpot": 1000000
+    "nextDrawEstimatedJackpot": 2500000
   }
 }
