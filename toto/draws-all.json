@@ -1,8 +1,83 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-05-04T12:51:42.809+08:00",
-  "totalDraws": 347,
+  "lastUpdated": "2026-05-04T14:33:06.818+08:00",
+  "totalDraws": 348,
   "draws": [
+    {
+      "id": "TOTO-4179",
+      "gameType": "TOTO",
+      "drawNumber": 4179,
+      "drawDate": "2026-05-04",
+      "winningNumbers": [
+        7,
+        18,
+        19,
+        30,
+        36,
+        48
+      ],
+      "additionalNumber": 11,
+      "jackpotAmount": 12813283,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 12813283,
+          "numberOfWinners": 1,
+          "shareAmount": 12813283,
+          "winningOutlets": []
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 1488588,
+          "numberOfWinners": 17,
+          "shareAmount": 87564,
+          "winningOutlets": []
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1854,
+          "numberOfWinners": 552,
+          "shareAmount": 1854,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 360,
+          "numberOfWinners": 1551,
+          "shareAmount": 360,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 31499,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 46030,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 577915,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
+    },
     {
       "id": "TOTO-4178",
       "gameType": "TOTO",
@@ -52603,8 +52678,8 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Mon, 04 May 2026",
-    "nextDrawTime": "21:30",
-    "nextDrawEstimatedJackpot": 10000000
+    "nextDrawDate": "Thu, 07 May 2026",
+    "nextDrawTime": "18:30",
+    "nextDrawEstimatedJackpot": 1000000
   }
 }
