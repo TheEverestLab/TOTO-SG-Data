@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-05-21T10:42:19.566+08:00",
+  "lastUpdated": "2026-05-21T11:16:40.447+08:00",
   "totalDraws": 353,
   "draws": [
     {
@@ -17,9 +17,74 @@
         49
       ],
       "additionalNumber": 41,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 1221934,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 257250,
+          "numberOfWinners": 1,
+          "shareAmount": 257250,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1805,
+          "numberOfWinners": 98,
+          "shareAmount": 1805,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 385,
+          "numberOfWinners": 251,
+          "shareAmount": 385,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 4942,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 6427,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 89515,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     },
     {
       "id": "TOTO-4183",
