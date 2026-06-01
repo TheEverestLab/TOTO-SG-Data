@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-06-01T17:02:31.746+08:00",
+  "lastUpdated": "2026-06-01T17:26:17.171+08:00",
   "totalDraws": 356,
   "draws": [
     {
@@ -34,7 +34,15 @@
           "prizeAmount": 575295,
           "numberOfWinners": 5,
           "shareAmount": 115059,
-          "winningOutlets": []
+          "winningOutlets": [
+            {
+              "outletName": "NTUC FairPrice Tampines Street 44",
+              "outletAddress": "Block 475 Tampines Street 44 #01-145",
+              "betType": "Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 3,
