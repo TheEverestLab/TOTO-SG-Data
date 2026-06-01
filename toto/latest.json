@@ -1,21 +1,21 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-05-28T14:51:43.251+08:00",
+  "lastUpdated": "2026-06-01T10:40:42.867+08:00",
   "draws": [
     {
-      "id": "TOTO-4186",
+      "id": "TOTO-4187",
       "gameType": "TOTO",
-      "drawNumber": 4186,
-      "drawDate": "2026-05-28",
+      "drawNumber": 4187,
+      "drawDate": "2026-06-01",
       "winningNumbers": [
-        10,
-        13,
-        30,
-        35,
-        38,
-        44
+        2,
+        19,
+        26,
+        29,
+        33,
+        36
       ],
-      "additionalNumber": 15,
+      "additionalNumber": 21,
       "jackpotAmount": 5703273,
       "resultsStatus": "final",
       "prizes": [
@@ -25,15 +25,7 @@
           "prizeAmount": 5703273,
           "numberOfWinners": 1,
           "shareAmount": 5703273,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 2,
@@ -41,43 +33,7 @@
           "prizeAmount": 575295,
           "numberOfWinners": 5,
           "shareAmount": 115059,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Bedok Town Centre Branch",
-              "outletAddress": "Block 204 Bedok North Street 1 #01-415",
-              "betType": "QuickPick System 8",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Hock Soon Ann",
-              "outletAddress": "Block 73 Bedok South Avenue 3 #01-454",
-              "betType": "Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
+          "winningOutlets": []
         },
         {
           "group": 3,
