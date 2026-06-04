@@ -1,89 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-06-01T17:26:17.171+08:00",
+  "lastUpdated": "2026-06-04T10:43:43.148+08:00",
   "draws": [
     {
-      "id": "TOTO-4187",
+      "id": "TOTO-4188",
       "gameType": "TOTO",
-      "drawNumber": 4187,
-      "drawDate": "2026-06-01",
+      "drawNumber": 4188,
+      "drawDate": "2026-06-04",
       "winningNumbers": [
-        2,
-        19,
+        3,
+        5,
+        20,
+        23,
         26,
-        29,
-        33,
-        36
+        27
       ],
-      "additionalNumber": 21,
-      "jackpotAmount": 5703273,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 5703273,
-          "numberOfWinners": 1,
-          "shareAmount": 5703273,
-          "winningOutlets": []
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 575295,
-          "numberOfWinners": 5,
-          "shareAmount": 115059,
-          "winningOutlets": [
-            {
-              "outletName": "NTUC FairPrice Tampines Street 44",
-              "outletAddress": "Block 475 Tampines Street 44 #01-145",
-              "betType": "Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 2786,
-          "numberOfWinners": 142,
-          "shareAmount": 2786,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 403,
-          "numberOfWinners": 536,
-          "shareAmount": 403,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 10715,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 16828,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 205356,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 28,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
