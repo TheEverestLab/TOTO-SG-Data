@@ -1,89 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-06-08T14:57:16.273+08:00",
+  "lastUpdated": "2026-06-11T10:44:05.632+08:00",
   "draws": [
     {
-      "id": "TOTO-4189",
+      "id": "TOTO-4190",
       "gameType": "TOTO",
-      "drawNumber": 4189,
-      "drawDate": "2026-06-08",
+      "drawNumber": 4190,
+      "drawDate": "2026-06-11",
       "winningNumbers": [
-        10,
-        15,
-        28,
-        39,
-        40,
-        46
+        14,
+        16,
+        21,
+        22,
+        35,
+        38
       ],
-      "additionalNumber": 12,
-      "jackpotAmount": 1248645,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
-          "shareAmount": 0,
-          "winningOutlets": []
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 262873,
-          "numberOfWinners": 1,
-          "shareAmount": 262873,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 1659,
-          "numberOfWinners": 109,
-          "shareAmount": 1659,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 219,
-          "numberOfWinners": 452,
-          "shareAmount": 219,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 4829,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 7880,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 90899,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 36,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
