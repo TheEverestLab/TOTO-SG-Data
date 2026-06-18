@@ -1,124 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-06-15T16:27:37.790+08:00",
+  "lastUpdated": "2026-06-18T10:40:54.750+08:00",
   "draws": [
     {
-      "id": "TOTO-4191",
+      "id": "TOTO-4192",
       "gameType": "TOTO",
-      "drawNumber": 4191,
-      "drawDate": "2026-06-15",
+      "drawNumber": 4192,
+      "drawDate": "2026-06-18",
       "winningNumbers": [
-        9,
-        16,
-        27,
-        28,
-        32,
-        49
+        2,
+        7,
+        11,
+        19,
+        20,
+        42
       ],
-      "additionalNumber": 18,
-      "jackpotAmount": 1244637,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
-          "shareAmount": 0,
-          "winningOutlets": []
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 262032,
-          "numberOfWinners": 6,
-          "shareAmount": 43672,
-          "winningOutlets": [
-            {
-              "outletName": "OCN (Singapore) Pte Ltd",
-              "outletAddress": "Block 501 West Coast Drive #01-266",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Giant Sunshine Place",
-              "outletAddress": "475 Choa Chu Kang Avenue 3 #01-01/10 Sunshine Place",
-              "betType": "System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Clementi Town Centre Branch",
-              "outletAddress": "Block 446 Clementi Avenue 3 #01-183",
-              "betType": "System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Laura's Gifts",
-              "outletAddress": "Block 442 Pasir Ris Drive 6 #01-42",
-              "betType": "Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 2025,
-          "numberOfWinners": 89,
-          "shareAmount": 2025,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 377,
-          "numberOfWinners": 261,
-          "shareAmount": 377,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 5100,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 8510,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 98147,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 23,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
