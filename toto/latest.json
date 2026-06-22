@@ -1,96 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-06-18T14:28:46.111+08:00",
+  "lastUpdated": "2026-06-22T10:42:25.810+08:00",
   "draws": [
     {
-      "id": "TOTO-4192",
+      "id": "TOTO-4193",
       "gameType": "TOTO",
-      "drawNumber": 4192,
-      "drawDate": "2026-06-18",
+      "drawNumber": 4193,
+      "drawDate": "2026-06-22",
       "winningNumbers": [
-        2,
-        7,
+        4,
         11,
-        19,
-        20,
-        42
+        15,
+        16,
+        21,
+        39
       ],
-      "additionalNumber": 23,
-      "jackpotAmount": 2883645,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
-          "shareAmount": 0,
-          "winningOutlets": []
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 345056,
-          "numberOfWinners": 2,
-          "shareAmount": 172528,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Anchorvale Road Branch",
-              "outletAddress": "Block 308 Anchorvale Road #01-05",
-              "betType": "System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Bedok Town Centre Branch",
-              "outletAddress": "Block 204 Bedok North Street 1 #01-415",
-              "betType": "Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 1094,
-          "numberOfWinners": 217,
-          "shareAmount": 1094,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 231,
-          "numberOfWinners": 562,
-          "shareAmount": 231,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 10292,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 14028,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 166554,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 20,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
