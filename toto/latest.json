@@ -1,125 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-06-22T16:11:33.563+08:00",
+  "lastUpdated": "2026-06-25T10:43:46.765+08:00",
   "draws": [
     {
-      "id": "TOTO-4193",
+      "id": "TOTO-4194",
       "gameType": "TOTO",
-      "drawNumber": 4193,
-      "drawDate": "2026-06-22",
+      "drawNumber": 4194,
+      "drawDate": "2026-06-25",
       "winningNumbers": [
         4,
-        11,
-        15,
-        16,
         21,
+        23,
+        28,
+        31,
         39
       ],
-      "additionalNumber": 20,
-      "jackpotAmount": 5624442,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 5624442,
-          "numberOfWinners": 1,
-          "shareAmount": 5624442,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 577014,
-          "numberOfWinners": 6,
-          "shareAmount": 96169,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Bukit Gombak Branch",
-              "outletAddress": "Block 374 Bukit Batok Street 31 #01-170",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Tan Wee Fong Trading",
-              "outletAddress": "Block 24 Bendemeer Road #01-529",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System Roll",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Everstream Trading",
-              "outletAddress": "Block 283 Bukit Batok East Avenue 3 #01-281",
-              "betType": "System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 1587,
-          "numberOfWinners": 250,
-          "shareAmount": 1587,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 357,
-          "numberOfWinners": 607,
-          "shareAmount": 357,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 13063,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 17452,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 236098,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 41,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
