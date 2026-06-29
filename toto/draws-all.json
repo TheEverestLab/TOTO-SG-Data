@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-06-29T10:41:11.478+08:00",
+  "lastUpdated": "2026-06-29T11:01:44.809+08:00",
   "totalDraws": 364,
   "draws": [
     {
@@ -17,9 +17,124 @@
         34
       ],
       "additionalNumber": 14,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 2955939,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 2955939,
+          "numberOfWinners": 1,
+          "shareAmount": 2955939,
+          "winningOutlets": [
+            {
+              "outletName": "Dawn Florist",
+              "outletAddress": "Aljunied Avenue 2 - Block 119 Aljunied Avenue 2 #01-78",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 622307,
+          "numberOfWinners": 7,
+          "shareAmount": 88901,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Bedok Town Centre Branch",
+              "outletAddress": "Block 204 Bedok North Street 1 #01-415",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Yishun N4 Branch",
+              "outletAddress": "Block 415 Yishun Avenue 11 #01-311",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Nan Huat Wine Store",
+              "outletAddress": "Block 513 Bishan Street 13 #01-508",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Rangoon Provision Shop",
+              "outletAddress": "Block 681 Race Course Road #01-309",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Majestic Betting Centre",
+              "outletAddress": "Lottery Lobby (Public) - 80 Eu Tong Sen Street #01 The Majestic",
+              "betType": "System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Jurong West N5 Branch",
+              "outletAddress": "Block 508 Jurong West Street 52 #01-166",
+              "betType": "System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1666,
+          "numberOfWinners": 153,
+          "shareAmount": 1666,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 316,
+          "numberOfWinners": 440,
+          "shareAmount": 316,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 9007,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 11770,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 161641,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     },
     {
       "id": "TOTO-4194",
