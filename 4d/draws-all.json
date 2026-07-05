@@ -1,8 +1,81 @@
 {
   "gameType": "4D",
-  "lastUpdated": "2026-07-04T10:53:57.846+08:00",
-  "totalDraws": 547,
+  "lastUpdated": "2026-07-05T10:52:56.204+08:00",
+  "totalDraws": 548,
   "draws": [
+    {
+      "id": "4D-5505",
+      "gameType": "4D",
+      "drawNumber": 5505,
+      "drawDate": "2026-07-05",
+      "winningNumbers": [
+        629
+      ],
+      "firstPrize": "0629",
+      "secondPrize": "0710",
+      "thirdPrize": "2094",
+      "starterPrizes": [
+        "1155",
+        "1752",
+        "3787",
+        "4413",
+        "5156",
+        "5225",
+        "7513",
+        "8331",
+        "8516",
+        "9313"
+      ],
+      "consolationPrizes": [
+        "1963",
+        "2573",
+        "2868",
+        "3314",
+        "3710",
+        "4628",
+        "4924",
+        "5568",
+        "5926",
+        "9707"
+      ],
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "1st Prize",
+          "prizeAmount": 2000,
+          "numberOfWinners": 1,
+          "shareAmount": 2000
+        },
+        {
+          "group": 2,
+          "prizeType": "2nd Prize",
+          "prizeAmount": 1000,
+          "numberOfWinners": 1,
+          "shareAmount": 1000
+        },
+        {
+          "group": 3,
+          "prizeType": "3rd Prize",
+          "prizeAmount": 490,
+          "numberOfWinners": 1,
+          "shareAmount": 490
+        },
+        {
+          "group": 4,
+          "prizeType": "Starter Prize",
+          "prizeAmount": 250,
+          "numberOfWinners": 10,
+          "shareAmount": 250
+        },
+        {
+          "group": 5,
+          "prizeType": "Consolation Prize",
+          "prizeAmount": 60,
+          "numberOfWinners": 10,
+          "shareAmount": 60
+        }
+      ]
+    },
     {
       "id": "4D-5504",
       "gameType": "4D",
@@ -39929,7 +40002,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Sun, 5 Jul 2026",
+    "nextDrawDate": "Wed, 8 Jul 2026",
     "nextDrawTime": "18:30",
     "nextDrawEstimatedJackpot": null
   }
