@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-07-09T11:00:04.976+08:00",
+  "lastUpdated": "2026-07-09T11:21:35.750+08:00",
   "draws": [
     {
       "id": "TOTO-4198",
@@ -17,8 +17,80 @@
       ],
       "additionalNumber": 29,
       "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 0,
+          "numberOfWinners": 2,
+          "shareAmount": 0,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools New Upper Changi Branch",
+              "outletAddress": "Block 26 New Upper Changi Road #01-666/668",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Northpoint City Branch",
+              "outletAddress": "930 Yishun Avenue 2 #02-03 Northpoint City (North Wing)",
+              "betType": "Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 0,
+          "numberOfWinners": 200,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 0,
+          "numberOfWinners": 519,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 0,
+          "numberOfWinners": 10800,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 0,
+          "numberOfWinners": 14727,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 0,
+          "numberOfWinners": 199012,
+          "shareAmount": 0,
+          "winningOutlets": []
+        }
+      ]
     }
   ],
   "nextDraw": {
