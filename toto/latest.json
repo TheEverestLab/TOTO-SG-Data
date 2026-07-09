@@ -1,110 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-07-06T14:04:01.360+08:00",
+  "lastUpdated": "2026-07-09T11:00:04.976+08:00",
   "draws": [
     {
-      "id": "TOTO-4197",
+      "id": "TOTO-4198",
       "gameType": "TOTO",
-      "drawNumber": 4197,
-      "drawDate": "2026-07-06",
+      "drawNumber": 4198,
+      "drawDate": "2026-07-09",
       "winningNumbers": [
-        8,
-        25,
-        34,
-        37,
-        39,
-        46
+        23,
+        27,
+        31,
+        38,
+        42,
+        47
       ],
-      "additionalNumber": 44,
-      "jackpotAmount": 2969336,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
-          "shareAmount": 0,
-          "winningOutlets": []
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 371024,
-          "numberOfWinners": 4,
-          "shareAmount": 92756,
-          "winningOutlets": [
-            {
-              "outletName": "NTUC FairPrice Thomson Plaza",
-              "outletAddress": "301 Upper Thomson Road #03-36/37 Thomson Plaza",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Yishun N1 Branch",
-              "outletAddress": "Block 101 Yishun Avenue 5 #01-37",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 2258,
-          "numberOfWinners": 113,
-          "shareAmount": 2258,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 487,
-          "numberOfWinners": 286,
-          "shareAmount": 487,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 6462,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 8847,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 125618,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 29,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
