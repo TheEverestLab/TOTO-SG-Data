@@ -1,41 +1,41 @@
 {
   "gameType": "4D",
-  "lastUpdated": "2026-07-11T10:48:30.357+08:00",
+  "lastUpdated": "2026-07-12T10:51:12.580+08:00",
   "draws": [
     {
-      "id": "4D-5507",
+      "id": "4D-5508",
       "gameType": "4D",
-      "drawNumber": 5507,
-      "drawDate": "2026-07-11",
+      "drawNumber": 5508,
+      "drawDate": "2026-07-12",
       "winningNumbers": [
-        6452
+        2329
       ],
-      "firstPrize": "6452",
-      "secondPrize": "8387",
-      "thirdPrize": "0786",
+      "firstPrize": "2329",
+      "secondPrize": "7120",
+      "thirdPrize": "6791",
       "starterPrizes": [
-        "0874",
-        "1263",
-        "1491",
-        "1942",
-        "3610",
-        "3623",
-        "3910",
-        "4751",
-        "5011",
-        "9051"
+        "0637",
+        "1621",
+        "1713",
+        "5916",
+        "6097",
+        "6313",
+        "7652",
+        "7971",
+        "9168",
+        "9356"
       ],
       "consolationPrizes": [
-        "0160",
-        "0161",
-        "3292",
-        "3549",
-        "3561",
-        "4010",
-        "5147",
-        "9434",
-        "9856",
-        "9924"
+        "0695",
+        "2561",
+        "2959",
+        "3241",
+        "3835",
+        "3838",
+        "7476",
+        "8462",
+        "8690",
+        "9537"
       ],
       "prizes": [
         {
@@ -77,7 +77,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Sun, 12 Jul 2026",
+    "nextDrawDate": "Wed, 15 Jul 2026",
     "nextDrawTime": "18:30",
     "nextDrawEstimatedJackpot": null
   }
