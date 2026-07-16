@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-07-16T10:40:27.413+08:00",
+  "lastUpdated": "2026-07-16T13:00:40.844+08:00",
   "totalDraws": 369,
   "draws": [
     {
@@ -26,7 +26,15 @@
           "prizeAmount": 12817992,
           "numberOfWinners": 2,
           "shareAmount": 6408996,
-          "winningOutlets": []
+          "winningOutlets": [
+            {
+              "outletName": "NTUC FairPrice VivoCity",
+              "outletAddress": "1 HarbourFront Walk #B2-23/#01-23 VivoCity",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 2,
@@ -34,7 +42,15 @@
           "prizeAmount": 1495140,
           "numberOfWinners": 12,
           "shareAmount": 124595,
-          "winningOutlets": []
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
         },
         {
           "group": 3,
@@ -55255,7 +55271,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Thu, 16 Jul 2026",
+    "nextDrawDate": "Mon, 20 Jul 2026",
     "nextDrawTime": "18:30",
     "nextDrawEstimatedJackpot": 1000000
   }
