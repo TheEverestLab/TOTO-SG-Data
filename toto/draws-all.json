@@ -1,8 +1,83 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-07-13T17:18:20.619+08:00",
-  "totalDraws": 368,
+  "lastUpdated": "2026-07-16T10:40:27.413+08:00",
+  "totalDraws": 369,
   "draws": [
+    {
+      "id": "TOTO-4200",
+      "gameType": "TOTO",
+      "drawNumber": 4200,
+      "drawDate": "2026-07-16",
+      "winningNumbers": [
+        6,
+        27,
+        28,
+        41,
+        43,
+        44
+      ],
+      "additionalNumber": 19,
+      "jackpotAmount": 12817992,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 12817992,
+          "numberOfWinners": 2,
+          "shareAmount": 6408996,
+          "winningOutlets": []
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 1495140,
+          "numberOfWinners": 12,
+          "shareAmount": 124595,
+          "winningOutlets": []
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1823,
+          "numberOfWinners": 564,
+          "shareAmount": 1823,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 396,
+          "numberOfWinners": 1418,
+          "shareAmount": 396,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 30081,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 39997,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 550854,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
+    },
     {
       "id": "TOTO-4199",
       "gameType": "TOTO",
