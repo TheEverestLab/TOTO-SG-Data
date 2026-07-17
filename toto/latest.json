@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-07-16T13:00:40.844+08:00",
+  "lastUpdated": "2026-07-17T04:31:44.406+08:00",
   "draws": [
     {
       "id": "TOTO-4200",
@@ -16,15 +16,15 @@
         44
       ],
       "additionalNumber": 19,
-      "jackpotAmount": 12817992,
+      "jackpotAmount": 1187340,
       "resultsStatus": "final",
       "prizes": [
         {
           "group": 1,
           "prizeType": "Group 1",
-          "prizeAmount": 12817992,
-          "numberOfWinners": 2,
-          "shareAmount": 6408996,
+          "prizeAmount": 1187340,
+          "numberOfWinners": 1,
+          "shareAmount": 1187340,
           "winningOutlets": [
             {
               "outletName": "NTUC FairPrice VivoCity",
@@ -38,9 +38,9 @@
         {
           "group": 2,
           "prizeType": "Group 2",
-          "prizeAmount": 1495140,
-          "numberOfWinners": 12,
-          "shareAmount": 124595,
+          "prizeAmount": 249967,
+          "numberOfWinners": 1,
+          "shareAmount": 249967,
           "winningOutlets": [
             {
               "outletName": "Singapore Pools Account",
@@ -54,24 +54,24 @@
         {
           "group": 3,
           "prizeType": "Group 3",
-          "prizeAmount": 1823,
-          "numberOfWinners": 564,
-          "shareAmount": 1823,
+          "prizeAmount": 3819,
+          "numberOfWinners": 45,
+          "shareAmount": 3819,
           "winningOutlets": []
         },
         {
           "group": 4,
           "prizeType": "Group 4",
-          "prizeAmount": 396,
-          "numberOfWinners": 1418,
-          "shareAmount": 396,
+          "prizeAmount": 415,
+          "numberOfWinners": 226,
+          "shareAmount": 415,
           "winningOutlets": []
         },
         {
           "group": 5,
           "prizeType": "Group 5",
           "prizeAmount": 50,
-          "numberOfWinners": 30081,
+          "numberOfWinners": 4131,
           "shareAmount": 50,
           "winningOutlets": []
         },
@@ -79,7 +79,7 @@
           "group": 6,
           "prizeType": "Group 6",
           "prizeAmount": 25,
-          "numberOfWinners": 39997,
+          "numberOfWinners": 6728,
           "shareAmount": 25,
           "winningOutlets": []
         },
@@ -87,7 +87,7 @@
           "group": 7,
           "prizeType": "Group 7",
           "prizeAmount": 10,
-          "numberOfWinners": 550854,
+          "numberOfWinners": 82556,
           "shareAmount": 10,
           "winningOutlets": []
         }
