@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-07-23T10:42:56.527+08:00",
+  "lastUpdated": "2026-07-23T11:07:34.267+08:00",
   "draws": [
     {
       "id": "TOTO-4202",
@@ -16,9 +16,179 @@
         48
       ],
       "additionalNumber": 35,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 2921709,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 352450,
+          "numberOfWinners": 5,
+          "shareAmount": 70490,
+          "winningOutlets": [
+            {
+              "outletName": "Delisia Agency Pte Ltd",
+              "outletAddress": "149 Rochor Road #B1-26 Fu Lu Shou Complex",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "System 8",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools King George's Ave Branch",
+              "outletAddress": "Block 803 King George's Avenue #01-200/202",
+              "betType": "System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Online",
+              "shareCount": null
+            },
+            {
+              "outletName": "Chong Hoe Tong",
+              "outletAddress": "Block 21 Lorong 7 Toa Payoh #01-290",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Majestic Betting Centre",
+              "outletAddress": "Lottery Lobby (Public) - 80 Eu Tong Sen Street #01 The Majestic",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "NTUC FairPrice Bedok North Street 1",
+              "outletAddress": "Block 212 Bedok North Street 1 #01-147",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "NTUC FairPrice Lorong 4 Toa Payoh",
+              "outletAddress": "Block 192 Lorong 4 Toa Payoh #01-670/672",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "NTUC FairPrice Tai Seng",
+              "outletAddress": "18 Tai Seng Street #B1-13 Mapletree 18",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Rangoon Provision Shop",
+              "outletAddress": "Block 681 Race Course Road #01-309",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Singapore Pools Clementi Town Centre Branch",
+              "outletAddress": "Block 446 Clementi Avenue 3 #01-183",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Singapore Pools Pasir Ris N7 Branch",
+              "outletAddress": "735 Pasir Ris Street 72 #01-358 Pasir Ris West Plaza",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Singapore Pools Serangoon Central Branch",
+              "outletAddress": "Block 254 Serangoon Central Drive #01-209",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Tan Wee Fong Trading",
+              "outletAddress": "Bedok North Street 3 - Block 537 Bedok North Street 3 #01-573",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Tong Aik Huat",
+              "outletAddress": "Block 685 Hougang Street 61 #01-160",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1756,
+          "numberOfWinners": 138,
+          "shareAmount": 1756,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 304,
+          "numberOfWinners": 436,
+          "shareAmount": 304,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 7739,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 9790,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 144353,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     }
   ],
   "nextDraw": {
