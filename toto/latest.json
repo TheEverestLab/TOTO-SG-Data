@@ -1,194 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-07-30T13:06:50.235+08:00",
+  "lastUpdated": "2026-08-03T10:39:52.328+08:00",
   "draws": [
     {
-      "id": "TOTO-4204",
+      "id": "TOTO-4205",
       "gameType": "TOTO",
-      "drawNumber": 4204,
-      "drawDate": "2026-07-30",
+      "drawNumber": 4205,
+      "drawDate": "2026-08-03",
       "winningNumbers": [
-        4,
-        7,
-        16,
-        23,
+        9,
+        29,
         30,
-        32
+        35,
+        36,
+        40
       ],
-      "additionalNumber": 8,
-      "jackpotAmount": 1248517,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
-          "shareAmount": 0,
-          "winningOutlets": []
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 262850,
-          "numberOfWinners": 7,
-          "shareAmount": 37550,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Ang Mo Kio N4 Branch",
-              "outletAddress": "Block 447 Ang Mo Kio Avenue 10 #01-1685",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Balestier Khalsa Football Club",
-              "outletAddress": "Block 70 Lorong 4 Toa Payoh #01-343",
-              "betType": "System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "NTUC FairPrice SingPost Centre",
-              "outletAddress": "10 Eunos Road 8 #B1-101 to 107 SingPost Centre",
-              "betType": "System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Pasir Ris N7 Branch",
-              "outletAddress": "735 Pasir Ris Street 72 #01-358 Pasir Ris West Plaza",
-              "betType": "System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Tong Aik Huat",
-              "outletAddress": "Block 685 Hougang Street 61 #01-160",
-              "betType": "Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Online",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Cheong Chin Nam Road Branch",
-              "outletAddress": "5 Cheong Chin Nam Road",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": 4
-            },
-            {
-              "outletName": "Jake Merchandise Associates",
-              "outletAddress": "Block 503 Tampines Central 1 #01-283",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Livewire Marina Bay Sands",
-              "outletAddress": "2 Bayfront Avenue #01-01 Marina Bay Sands",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Ang Mo Kio N4 Branch",
-              "outletAddress": "Block 447 Ang Mo Kio Avenue 10 #01-1685",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Clementi N3 Branch",
-              "outletAddress": "Block 325 Clementi Avenue 5 #01-145",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Hougang N1 Branch",
-              "outletAddress": "Block 106 Hougang Avenue 1 #01-1209/1211",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Singapore Pools Lorong 25A Geylang Branch",
-              "outletAddress": "62 Lorong 25A Geylang Road",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Soh Choo Trading",
-              "outletAddress": "Block 19 Marsiling Lane #01-303",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            },
-            {
-              "outletName": "Xie Sheng Departmental Service Company",
-              "outletAddress": "Block 632 Bedok Reservoir Road #01-820",
-              "betType": "iTOTO - System 12",
-              "purchaseMethod": "Retail",
-              "shareCount": null
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 1282,
-          "numberOfWinners": 141,
-          "shareAmount": 1282,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 180,
-          "numberOfWinners": 549,
-          "shareAmount": 180,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 7176,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 13407,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 117014,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 11,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
