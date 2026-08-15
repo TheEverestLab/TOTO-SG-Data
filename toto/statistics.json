@@ -1,17 +1,17 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-08-14T18:36:43.943Z",
+  "lastUpdated": "2026-08-15T18:09:16.770Z",
   "periods": {
     "lastMonth": {
       "name": "Last Month",
       "days": 30,
       "gameType": "TOTO",
-      "totalDraws": 9,
+      "totalDraws": 8,
       "dateRange": {
-        "start": "2026-07-16",
+        "start": "2026-07-20",
         "end": "2026-08-13"
       },
-      "averageFrequency": 1.1020408163265305,
+      "averageFrequency": 0.9795918367346939,
       "hotNumbers": [
         {
           "number": 30,
@@ -56,13 +56,6 @@
           "gameType": "TOTO"
         },
         {
-          "number": 6,
-          "frequency": 2,
-          "lastSeenDate": "2026-08-10",
-          "lastSeenDrawNumber": 4207,
-          "gameType": "TOTO"
-        },
-        {
           "number": 7,
           "frequency": 2,
           "lastSeenDate": "2026-08-07",
@@ -81,6 +74,13 @@
           "frequency": 2,
           "lastSeenDate": "2026-08-10",
           "lastSeenDrawNumber": 4207,
+          "gameType": "TOTO"
+        },
+        {
+          "number": 22,
+          "frequency": 2,
+          "lastSeenDate": "2026-08-13",
+          "lastSeenDrawNumber": 4208,
           "gameType": "TOTO"
         }
       ],
@@ -101,6 +101,13 @@
         },
         {
           "number": 42,
+          "frequency": 0,
+          "lastSeenDate": null,
+          "lastSeenDrawNumber": null,
+          "gameType": "TOTO"
+        },
+        {
+          "number": 41,
           "frequency": 0,
           "lastSeenDate": null,
           "lastSeenDrawNumber": null,
@@ -128,28 +135,21 @@
           "gameType": "TOTO"
         },
         {
+          "number": 28,
+          "frequency": 0,
+          "lastSeenDate": null,
+          "lastSeenDrawNumber": null,
+          "gameType": "TOTO"
+        },
+        {
+          "number": 27,
+          "frequency": 0,
+          "lastSeenDate": null,
+          "lastSeenDrawNumber": null,
+          "gameType": "TOTO"
+        },
+        {
           "number": 26,
-          "frequency": 0,
-          "lastSeenDate": null,
-          "lastSeenDrawNumber": null,
-          "gameType": "TOTO"
-        },
-        {
-          "number": 25,
-          "frequency": 0,
-          "lastSeenDate": null,
-          "lastSeenDrawNumber": null,
-          "gameType": "TOTO"
-        },
-        {
-          "number": 24,
-          "frequency": 0,
-          "lastSeenDate": null,
-          "lastSeenDrawNumber": null,
-          "gameType": "TOTO"
-        },
-        {
-          "number": 20,
           "frequency": 0,
           "lastSeenDate": null,
           "lastSeenDrawNumber": null,
@@ -266,7 +266,7 @@
         },
         {
           "number": 6,
-          "frequency": 2,
+          "frequency": 1,
           "lastSeenDate": "2026-08-10",
           "lastSeenDrawNumber": 4207,
           "gameType": "TOTO"
@@ -413,16 +413,16 @@
         },
         {
           "number": 27,
-          "frequency": 1,
-          "lastSeenDate": "2026-07-16",
-          "lastSeenDrawNumber": 4200,
+          "frequency": 0,
+          "lastSeenDate": null,
+          "lastSeenDrawNumber": null,
           "gameType": "TOTO"
         },
         {
           "number": 28,
-          "frequency": 1,
-          "lastSeenDate": "2026-07-16",
-          "lastSeenDrawNumber": 4200,
+          "frequency": 0,
+          "lastSeenDate": null,
+          "lastSeenDrawNumber": null,
           "gameType": "TOTO"
         },
         {
@@ -511,9 +511,9 @@
         },
         {
           "number": 41,
-          "frequency": 1,
-          "lastSeenDate": "2026-07-16",
-          "lastSeenDrawNumber": 4200,
+          "frequency": 0,
+          "lastSeenDate": null,
+          "lastSeenDrawNumber": null,
           "gameType": "TOTO"
         },
         {
@@ -525,14 +525,14 @@
         },
         {
           "number": 43,
-          "frequency": 2,
+          "frequency": 1,
           "lastSeenDate": "2026-07-20",
           "lastSeenDrawNumber": 4201,
           "gameType": "TOTO"
         },
         {
           "number": 44,
-          "frequency": 2,
+          "frequency": 1,
           "lastSeenDate": "2026-07-27",
           "lastSeenDrawNumber": 4203,
           "gameType": "TOTO"
@@ -1150,12 +1150,12 @@
       "name": "Last 6 Months",
       "days": 180,
       "gameType": "TOTO",
-      "totalDraws": 52,
+      "totalDraws": 51,
       "dateRange": {
-        "start": "2026-02-16",
+        "start": "2026-02-19",
         "end": "2026-08-13"
       },
-      "averageFrequency": 6.36734693877551,
+      "averageFrequency": 6.244897959183674,
       "hotNumbers": [
         {
           "number": 23,
@@ -1238,7 +1238,7 @@
         },
         {
           "number": 24,
-          "frequency": 3,
+          "frequency": 2,
           "lastSeenDate": "2026-05-25",
           "lastSeenDrawNumber": 4185,
           "gameType": "TOTO"
@@ -1248,6 +1248,13 @@
           "frequency": 3,
           "lastSeenDate": "2026-06-18",
           "lastSeenDrawNumber": 4192,
+          "gameType": "TOTO"
+        },
+        {
+          "number": 13,
+          "frequency": 3,
+          "lastSeenDate": "2026-05-28",
+          "lastSeenDrawNumber": 4186,
           "gameType": "TOTO"
         },
         {
@@ -1291,13 +1298,6 @@
           "lastSeenDate": "2026-06-18",
           "lastSeenDrawNumber": 4192,
           "gameType": "TOTO"
-        },
-        {
-          "number": 18,
-          "frequency": 4,
-          "lastSeenDate": "2026-05-21",
-          "lastSeenDrawNumber": 4184,
-          "gameType": "TOTO"
         }
       ],
       "overdueNumbers": [
@@ -1324,14 +1324,14 @@
         },
         {
           "number": 24,
-          "frequency": 3,
+          "frequency": 2,
           "lastSeenDate": "2026-05-25",
           "lastSeenDrawNumber": 4185,
           "gameType": "TOTO"
         },
         {
           "number": 13,
-          "frequency": 4,
+          "frequency": 3,
           "lastSeenDate": "2026-05-28",
           "lastSeenDrawNumber": 4186,
           "gameType": "TOTO"
@@ -1459,7 +1459,7 @@
         },
         {
           "number": 13,
-          "frequency": 4,
+          "frequency": 3,
           "lastSeenDate": "2026-05-28",
           "lastSeenDrawNumber": 4186,
           "gameType": "TOTO"
@@ -1536,7 +1536,7 @@
         },
         {
           "number": 24,
-          "frequency": 3,
+          "frequency": 2,
           "lastSeenDate": "2026-05-25",
           "lastSeenDrawNumber": 4185,
           "gameType": "TOTO"
@@ -1564,7 +1564,7 @@
         },
         {
           "number": 28,
-          "frequency": 8,
+          "frequency": 7,
           "lastSeenDate": "2026-07-16",
           "lastSeenDrawNumber": 4200,
           "gameType": "TOTO"
@@ -1606,7 +1606,7 @@
         },
         {
           "number": 34,
-          "frequency": 6,
+          "frequency": 5,
           "lastSeenDate": "2026-07-06",
           "lastSeenDrawNumber": 4197,
           "gameType": "TOTO"
@@ -1627,7 +1627,7 @@
         },
         {
           "number": 37,
-          "frequency": 8,
+          "frequency": 7,
           "lastSeenDate": "2026-07-23",
           "lastSeenDrawNumber": 4202,
           "gameType": "TOTO"
@@ -1676,7 +1676,7 @@
         },
         {
           "number": 44,
-          "frequency": 7,
+          "frequency": 6,
           "lastSeenDate": "2026-07-27",
           "lastSeenDrawNumber": 4203,
           "gameType": "TOTO"
