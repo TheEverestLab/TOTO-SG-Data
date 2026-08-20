@@ -1,110 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-08-17T11:14:13.220+08:00",
+  "lastUpdated": "2026-08-20T10:44:16.641+08:00",
   "draws": [
     {
-      "id": "TOTO-4209",
+      "id": "TOTO-4210",
       "gameType": "TOTO",
-      "drawNumber": 4209,
-      "drawDate": "2026-08-17",
+      "drawNumber": 4210,
+      "drawDate": "2026-08-20",
       "winningNumbers": [
-        9,
-        16,
-        22,
-        24,
-        33,
-        47
+        3,
+        18,
+        19,
+        25,
+        27,
+        48
       ],
-      "additionalNumber": 8,
-      "jackpotAmount": 1280918,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
-          "shareAmount": 0,
-          "winningOutlets": []
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 269668,
-          "numberOfWinners": 4,
-          "shareAmount": 67417,
-          "winningOutlets": [
-            {
-              "outletName": "Giant Beauty World Centre",
-              "outletAddress": "144 Upper Bukit Timah Road #B1-01 Beauty World Centre",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Li Li Cheng Supermarket (Punggol) Pte Ltd",
-              "outletAddress": "Block 273C Punggol Place #01-884",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 2060,
-          "numberOfWinners": 90,
-          "shareAmount": 2060,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 255,
-          "numberOfWinners": 398,
-          "shareAmount": 255,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 5062,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 10667,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 97212,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 40,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
