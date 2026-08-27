@@ -1,8 +1,26 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-08-24T11:55:04.387+08:00",
-  "totalDraws": 380,
+  "lastUpdated": "2026-08-27T10:41:12.327+08:00",
+  "totalDraws": 381,
   "draws": [
+    {
+      "id": "TOTO-4212",
+      "gameType": "TOTO",
+      "drawNumber": 4212,
+      "drawDate": "2026-08-27",
+      "winningNumbers": [
+        8,
+        9,
+        14,
+        17,
+        35,
+        40
+      ],
+      "additionalNumber": 18,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
+    },
     {
       "id": "TOTO-4211",
       "gameType": "TOTO",
