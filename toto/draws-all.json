@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-08-27T10:41:12.327+08:00",
+  "lastUpdated": "2026-08-27T11:10:05.043+08:00",
   "totalDraws": 381,
   "draws": [
     {
@@ -17,9 +17,82 @@
         40
       ],
       "additionalNumber": 18,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 1242725,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 1242725,
+          "numberOfWinners": 1,
+          "shareAmount": 1242725,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "Ordinary",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 261627,
+          "numberOfWinners": 1,
+          "shareAmount": 261627,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Whampoa Drive Branch",
+              "outletAddress": "Block 88 Whampoa Drive #01-857",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1323,
+          "numberOfWinners": 136,
+          "shareAmount": 1323,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 326,
+          "numberOfWinners": 301,
+          "shareAmount": 326,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 6293,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 8957,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 114564,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     },
     {
       "id": "TOTO-4211",
