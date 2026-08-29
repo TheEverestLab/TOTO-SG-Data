@@ -1,41 +1,41 @@
 {
   "gameType": "4D",
-  "lastUpdated": "2026-08-26T10:52:13.348+08:00",
+  "lastUpdated": "2026-08-29T10:51:01.278+08:00",
   "draws": [
     {
-      "id": "4D-5527",
+      "id": "4D-5528",
       "gameType": "4D",
-      "drawNumber": 5527,
-      "drawDate": "2026-08-26",
+      "drawNumber": 5528,
+      "drawDate": "2026-08-29",
       "winningNumbers": [
-        1564
+        363
       ],
-      "firstPrize": "1564",
-      "secondPrize": "2169",
-      "thirdPrize": "8947",
+      "firstPrize": "0363",
+      "secondPrize": "4694",
+      "thirdPrize": "2691",
       "starterPrizes": [
-        "2412",
-        "2588",
-        "3480",
-        "5552",
-        "6607",
-        "7357",
-        "7639",
-        "7988",
-        "9178",
-        "9933"
+        "0277",
+        "0457",
+        "0583",
+        "0640",
+        "3223",
+        "3230",
+        "6453",
+        "6512",
+        "7302",
+        "7755"
       ],
       "consolationPrizes": [
-        "1195",
-        "1445",
-        "2039",
-        "2929",
-        "4022",
-        "4765",
-        "6114",
-        "6303",
-        "6581",
-        "7490"
+        "1024",
+        "1343",
+        "2957",
+        "6639",
+        "7014",
+        "7136",
+        "7480",
+        "9483",
+        "9537",
+        "9679"
       ],
       "prizes": [
         {
@@ -77,7 +77,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Sat, 29 Aug 2026",
+    "nextDrawDate": "Sun, 30 Aug 2026",
     "nextDrawTime": "18:30",
     "nextDrawEstimatedJackpot": null
   }
