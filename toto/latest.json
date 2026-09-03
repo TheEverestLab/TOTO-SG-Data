@@ -1,96 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-08-31T18:05:28.944+08:00",
+  "lastUpdated": "2026-09-03T10:45:31.426+08:00",
   "draws": [
     {
-      "id": "TOTO-4213",
+      "id": "TOTO-4214",
       "gameType": "TOTO",
-      "drawNumber": 4213,
-      "drawDate": "2026-08-31",
+      "drawNumber": 4214,
+      "drawDate": "2026-09-03",
       "winningNumbers": [
-        7,
-        26,
+        29,
         33,
         39,
-        41,
-        46
+        42,
+        43,
+        44
       ],
-      "additionalNumber": 11,
-      "jackpotAmount": 1268219,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
-          "shareAmount": 0,
-          "winningOutlets": []
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 266994,
-          "numberOfWinners": 3,
-          "shareAmount": 88998,
-          "winningOutlets": [
-            {
-              "outletName": "PFG Framing & Trading",
-              "outletAddress": "Block 960 Jurong West Street 92 #01-182",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Hock Soon Ann",
-              "outletAddress": "Block 73 Bedok South Avenue 3 #01-454",
-              "betType": "System Roll",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 2481,
-          "numberOfWinners": 74,
-          "shareAmount": 2481,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 285,
-          "numberOfWinners": 352,
-          "shareAmount": 285,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 4685,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 8216,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 89516,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 49,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
