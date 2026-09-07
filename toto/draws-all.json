@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-09-07T10:40:55.924+08:00",
+  "lastUpdated": "2026-09-07T11:04:13.260+08:00",
   "totalDraws": 384,
   "draws": [
     {
@@ -17,9 +17,117 @@
         32
       ],
       "additionalNumber": 48,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 5903013,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 5903013,
+          "numberOfWinners": 1,
+          "shareAmount": 5903013,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 618612,
+          "numberOfWinners": 6,
+          "shareAmount": 103102,
+          "winningOutlets": [
+            {
+              "outletName": "NTUC FairPrice AMK Hub",
+              "outletAddress": "53 Ang Mo Kio Avenue 3 #B2-40 AMK Hub",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "NTUC FairPrice Jem",
+              "outletAddress": "50 Jurong Gateway Road #B1-21/22 Jem",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "NTUC FairPrice Bedok North Street 4",
+              "outletAddress": "Block 89 Bedok North Street 4 #01-77/79",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Cheers Northshore Plaza II",
+              "outletAddress": "418 Northshore Drive #02-05/06 Northshore Plaza II",
+              "betType": "Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Superbowl Jurong Pte Ltd",
+              "outletAddress": "3 Yuan Ching Road",
+              "betType": "Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1056,
+          "numberOfWinners": 403,
+          "shareAmount": 1056,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 372,
+          "numberOfWinners": 625,
+          "shareAmount": 372,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 17468,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 16622,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 279012,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     },
     {
       "id": "TOTO-4214",
