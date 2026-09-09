@@ -1,8 +1,81 @@
 {
   "gameType": "4D",
-  "lastUpdated": "2026-09-06T10:56:08.441+08:00",
-  "totalDraws": 575,
+  "lastUpdated": "2026-09-09T10:52:13.877+08:00",
+  "totalDraws": 576,
   "draws": [
+    {
+      "id": "4D-5533",
+      "gameType": "4D",
+      "drawNumber": 5533,
+      "drawDate": "2026-09-09",
+      "winningNumbers": [
+        1853
+      ],
+      "firstPrize": "1853",
+      "secondPrize": "0075",
+      "thirdPrize": "4270",
+      "starterPrizes": [
+        "0644",
+        "3108",
+        "3129",
+        "3960",
+        "4317",
+        "5600",
+        "6236",
+        "6583",
+        "7959",
+        "9031"
+      ],
+      "consolationPrizes": [
+        "0699",
+        "0929",
+        "1421",
+        "1624",
+        "2584",
+        "3642",
+        "4964",
+        "7862",
+        "9240",
+        "9655"
+      ],
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "1st Prize",
+          "prizeAmount": 2000,
+          "numberOfWinners": 1,
+          "shareAmount": 2000
+        },
+        {
+          "group": 2,
+          "prizeType": "2nd Prize",
+          "prizeAmount": 1000,
+          "numberOfWinners": 1,
+          "shareAmount": 1000
+        },
+        {
+          "group": 3,
+          "prizeType": "3rd Prize",
+          "prizeAmount": 490,
+          "numberOfWinners": 1,
+          "shareAmount": 490
+        },
+        {
+          "group": 4,
+          "prizeType": "Starter Prize",
+          "prizeAmount": 250,
+          "numberOfWinners": 10,
+          "shareAmount": 250
+        },
+        {
+          "group": 5,
+          "prizeType": "Consolation Prize",
+          "prizeAmount": 60,
+          "numberOfWinners": 10,
+          "shareAmount": 60
+        }
+      ]
+    },
     {
       "id": "4D-5532",
       "gameType": "4D",
@@ -41973,7 +42046,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Wed, 9 Sep 2026",
+    "nextDrawDate": "Sat, 12 Sep 2026",
     "nextDrawTime": "18:30",
     "nextDrawEstimatedJackpot": null
   }
