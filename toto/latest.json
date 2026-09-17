@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-09-17T10:41:39.490+08:00",
+  "lastUpdated": "2026-09-17T11:13:24.343+08:00",
   "draws": [
     {
       "id": "TOTO-4218",
@@ -16,9 +16,74 @@
         39
       ],
       "additionalNumber": 49,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 1248856,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 262918,
+          "numberOfWinners": 1,
+          "shareAmount": 262918,
+          "winningOutlets": [
+            {
+              "outletName": "Ng Teo Guan Self Service",
+              "outletAddress": "Block 301 Ubi Avenue 1 #01-241",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 2205,
+          "numberOfWinners": 82,
+          "shareAmount": 2205,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 401,
+          "numberOfWinners": 246,
+          "shareAmount": 401,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 5187,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 6512,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 99958,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     }
   ],
   "nextDraw": {
