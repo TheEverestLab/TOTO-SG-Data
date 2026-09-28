@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-09-28T10:41:47.539+08:00",
+  "lastUpdated": "2026-09-28T11:04:54.441+08:00",
   "totalDraws": 390,
   "draws": [
     {
@@ -17,9 +17,201 @@
         37
       ],
       "additionalNumber": 18,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 1298326,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 1298326,
+          "numberOfWinners": 1,
+          "shareAmount": 1298326,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Changi Road Branch",
+              "outletAddress": "324K Changi Road",
+              "betType": "QuickPick Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 1219645,
+          "numberOfWinners": 5,
+          "shareAmount": 243929,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Online",
+              "shareCount": null
+            },
+            {
+              "outletName": "Cold Storage Macpherson Road",
+              "outletAddress": "ExxonMobil/ 110 Macpherson Road",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Hock Soon Ann",
+              "outletAddress": "Block 73 Bedok South Avenue 3 #01-454",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "NTUC FairPrice Havelock Road",
+              "outletAddress": "Block 50 Havelock Road #01-755",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "NTUC FairPrice Parkway Parade",
+              "outletAddress": "80 Marine Parade Road #03-28 Parkway Parade",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "NTUC FairPrice Paya Lebar Quarter",
+              "outletAddress": "10 Paya Lebar Road #B2-09 Paya Lebar Quarter",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "NTUC FairPrice Tampines Mall",
+              "outletAddress": "4 Tampines Central 5 #B1-12 Tampines Mall",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "NTUC FairPrice Yishun Ring Road",
+              "outletAddress": "Block 849 Yishun Ring Road #01-3701/3703",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Prime Compassvale Street",
+              "outletAddress": "Block 263 Compassvale Street #01-01",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Rangoon Provision Shop",
+              "outletAddress": "Block 681 Race Course Road #01-309",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Singapore Pools Upper Boon Keng Branch",
+              "outletAddress": "Block 18 Upper Boon Keng Road #01-1149/1151",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Singapore Pools Woodlands N3 Branch",
+              "outletAddress": "Block 305 Woodlands Street 31 #01-77",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Singapore Pools Yishun N2 Branch",
+              "outletAddress": "Block 256 Yishun Ring Road #01-1001",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Springdale Garments Co",
+              "outletAddress": "Block 408 Ang Mo Kio Avenue 10 #01-795",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            },
+            {
+              "outletName": "Tan Wee Fong Trading",
+              "outletAddress": "Bedok North Street 3 - Block 537 Bedok North Street 3 #01-573",
+              "betType": "iTOTO - System 12",
+              "purchaseMethod": "Retail",
+              "shareCount": null
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1938,
+          "numberOfWinners": 97,
+          "shareAmount": 1938,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 354,
+          "numberOfWinners": 290,
+          "shareAmount": 354,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 5285,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 7294,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 97488,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     },
     {
       "id": "TOTO-4220",
