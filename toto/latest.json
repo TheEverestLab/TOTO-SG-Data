@@ -1,111 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-10-01T17:27:39.335+08:00",
+  "lastUpdated": "2026-10-05T10:41:36.027+08:00",
   "draws": [
     {
-      "id": "TOTO-4222",
+      "id": "TOTO-4223",
       "gameType": "TOTO",
-      "drawNumber": 4222,
-      "drawDate": "2026-10-01",
+      "drawNumber": 4223,
+      "drawDate": "2026-10-05",
       "winningNumbers": [
-        5,
-        8,
-        11,
-        24,
-        26,
-        43
+        3,
+        13,
+        20,
+        30,
+        48,
+        49
       ],
-      "additionalNumber": 20,
-      "jackpotAmount": 1227210,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 1227210,
-          "numberOfWinners": 2,
-          "shareAmount": 613605,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 8",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 258360,
-          "numberOfWinners": 3,
-          "shareAmount": 86120,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "NTUC FairPrice Yishun Ring Road",
-              "outletAddress": "Block 849 Yishun Ring Road #01-3701/3703",
-              "betType": "System 8",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Tan Wee Fong Trading",
-              "outletAddress": "Block 24 Bendemeer Road #01-529",
-              "betType": "System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 1090,
-          "numberOfWinners": 163,
-          "shareAmount": 1090,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 195,
-          "numberOfWinners": 498,
-          "shareAmount": 195,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 8082,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 11394,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 132253,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 23,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
