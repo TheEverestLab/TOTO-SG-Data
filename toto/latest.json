@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-10-15T10:41:32.008+08:00",
+  "lastUpdated": "2026-10-15T11:13:02.713+08:00",
   "draws": [
     {
       "id": "TOTO-4226",
@@ -16,9 +16,66 @@
         45
       ],
       "additionalNumber": 14,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 1211044,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 0,
+          "numberOfWinners": 0,
+          "shareAmount": 0,
+          "winningOutlets": []
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 2164,
+          "numberOfWinners": 81,
+          "shareAmount": 2164,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 411,
+          "numberOfWinners": 233,
+          "shareAmount": 411,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 4838,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 7164,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 95405,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     }
   ],
   "nextDraw": {
