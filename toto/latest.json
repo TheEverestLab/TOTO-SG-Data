@@ -1,139 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-10-12T20:24:00.353+08:00",
+  "lastUpdated": "2026-10-15T10:41:32.008+08:00",
   "draws": [
     {
-      "id": "TOTO-4225",
+      "id": "TOTO-4226",
       "gameType": "TOTO",
-      "drawNumber": 4225,
-      "drawDate": "2026-10-12",
+      "drawNumber": 4226,
+      "drawDate": "2026-10-15",
       "winningNumbers": [
-        8,
-        18,
-        21,
-        24,
-        30,
-        33
+        9,
+        11,
+        29,
+        41,
+        42,
+        45
       ],
-      "additionalNumber": 23,
-      "jackpotAmount": 5822870,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 5822870,
-          "numberOfWinners": 2,
-          "shareAmount": 2911435,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "Ordinary",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 594120,
-          "numberOfWinners": 6,
-          "shareAmount": 99020,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 8",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Prime Joo Seng",
-              "outletAddress": "Block 1 Upper Aljunied Lane #01-01",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Tan Ah Leck Trading",
-              "outletAddress": "Jurong East Street 31 - Block 352 Jurong East Street 31 #01-121",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Hougang N1 Branch",
-              "outletAddress": "Block 106 Hougang Avenue 1 #01-1209/1211",
-              "betType": "System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Prime Buangkok Square",
-              "outletAddress": "991 Buangkok Link #01-28 Buangkok Square",
-              "betType": "Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 1536,
-          "numberOfWinners": 266,
-          "shareAmount": 1536,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 354,
-          "numberOfWinners": 631,
-          "shareAmount": 354,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 13965,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 18499,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 249805,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 14,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
