@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-10-22T10:42:52.531+08:00",
+  "lastUpdated": "2026-10-22T11:22:37.779+08:00",
   "draws": [
     {
       "id": "TOTO-4228",
@@ -16,9 +16,124 @@
         47
       ],
       "additionalNumber": 21,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 1203482,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 1203482,
+          "numberOfWinners": 2,
+          "shareAmount": 601741,
+          "winningOutlets": [
+            {
+              "outletName": "NTUC FairPrice Jem",
+              "outletAddress": "50 Jurong Gateway Road #B1-21/22 Jem",
+              "betType": "System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 253368,
+          "numberOfWinners": 6,
+          "shareAmount": 42228,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Ang Mo Kio N7 Branch",
+              "outletAddress": "Block 726 Ang Mo Kio Avenue 6 #01-4158",
+              "betType": "QuickPick System 10",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Delisia Agency Pte Ltd",
+              "outletAddress": "149 Rochor Road #B1-26 Fu Lu Shou Complex",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "NTUC FairPrice Tiong Bahru Plaza",
+              "outletAddress": "302 Tiong Bahru Road #B1-01/02 Tiong Bahru Plaza",
+              "betType": "System 8",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "System 8",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Ng Teo Guan Self Service",
+              "outletAddress": "Block 301 Ubi Avenue 1 #01-241",
+              "betType": "System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Tanjong Pagar Branch",
+              "outletAddress": "Block 1 Tanjong Pagar Plaza #01-49/50",
+              "betType": "System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1440,
+          "numberOfWinners": 121,
+          "shareAmount": 1440,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 274,
+          "numberOfWinners": 348,
+          "shareAmount": 274,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 5208,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 7298,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 88022,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     }
   ],
   "nextDraw": {
