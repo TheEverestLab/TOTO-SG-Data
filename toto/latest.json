@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-10-26T10:42:35.582+08:00",
+  "lastUpdated": "2026-10-26T11:13:07.495+08:00",
   "draws": [
     {
       "id": "TOTO-4229",
@@ -16,9 +16,103 @@
         48
       ],
       "additionalNumber": 12,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 1241524,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 1241524,
+          "numberOfWinners": 2,
+          "shareAmount": 620762,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Kim Chwee Trading",
+              "outletAddress": "Block 256 Jurong East Street 24 #01-385",
+              "betType": "Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 261375,
+          "numberOfWinners": 3,
+          "shareAmount": 87125,
+          "winningOutlets": [
+            {
+              "outletName": "Singapore Pools Siglap Branch",
+              "outletAddress": "697B East Coast Road",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Singapore Pools Account",
+              "outletAddress": null,
+              "betType": "System 7",
+              "purchaseMethod": "Online",
+              "shareCount": 1
+            },
+            {
+              "outletName": "NTUC FairPrice Tanjong Pagar Plaza",
+              "outletAddress": "Block 5 Tanjong Pagar Plaza #01-01",
+              "betType": "Ordinary",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 1415,
+          "numberOfWinners": 127,
+          "shareAmount": 1415,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 404,
+          "numberOfWinners": 243,
+          "shareAmount": 404,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 5468,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 7641,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 95079,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     }
   ],
   "nextDraw": {
