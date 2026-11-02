@@ -1,81 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-10-31T05:51:47.714+08:00",
+  "lastUpdated": "2026-11-02T18:43:29.102+08:00",
   "draws": [
     {
-      "id": "TOTO-4230",
+      "id": "TOTO-4231",
       "gameType": "TOTO",
-      "drawNumber": 4230,
-      "drawDate": "2026-10-29",
+      "drawNumber": 4231,
+      "drawDate": "2026-11-02",
       "winningNumbers": [
-        5,
-        9,
+        8,
+        10,
         19,
-        31,
-        41,
+        37,
+        40,
         48
       ],
-      "additionalNumber": 27,
-      "jackpotAmount": 1192876,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
-          "shareAmount": 0,
-          "winningOutlets": []
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
-          "shareAmount": 0,
-          "winningOutlets": []
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 1629,
-          "numberOfWinners": 106,
-          "shareAmount": 1629,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 373,
-          "numberOfWinners": 253,
-          "shareAmount": 373,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 5453,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 8100,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 105656,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 38,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
