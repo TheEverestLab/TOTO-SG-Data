@@ -1,40 +1,41 @@
 {
   "gameType": "4D",
-  "lastUpdated": "2026-11-07T18:50:49.321+08:00",
+  "lastUpdated": "2026-11-08T18:52:16.587+08:00",
   "draws": [
     {
-      "id": "4D-5558",
+      "id": "4D-5559",
       "gameType": "4D",
-      "drawNumber": 5558,
-      "drawDate": "2026-11-07",
+      "drawNumber": 5559,
+      "drawDate": "2026-11-08",
       "winningNumbers": [
-        6208
+        824
       ],
-      "firstPrize": "6208",
-      "secondPrize": "0960",
-      "thirdPrize": "9438",
+      "firstPrize": "0824",
+      "secondPrize": "8526",
+      "thirdPrize": "9371",
       "starterPrizes": [
-        "1858",
-        "2320",
-        "2966",
-        "3336",
-        "4418",
-        "5414",
-        "6483",
-        "7856",
-        "7907"
+        "1494",
+        "1960",
+        "2154",
+        "3309",
+        "4869",
+        "7228",
+        "7337",
+        "7826",
+        "9008",
+        "9658"
       ],
       "consolationPrizes": [
-        "0110",
-        "1090",
-        "1693",
-        "3683",
-        "4012",
-        "5965",
-        "6803",
-        "7038",
-        "7848",
-        "8023"
+        "0534",
+        "0605",
+        "3677",
+        "6570",
+        "7148",
+        "8350",
+        "8727",
+        "8937",
+        "9066",
+        "9384"
       ],
       "prizes": [
         {
@@ -76,7 +77,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Sun, 8 Nov 2026",
+    "nextDrawDate": "Wed, 11 Nov 2026",
     "nextDrawTime": "18:30",
     "nextDrawEstimatedJackpot": null
   }

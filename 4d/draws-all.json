@@ -1,8 +1,81 @@
 {
   "gameType": "4D",
-  "lastUpdated": "2026-11-07T18:50:49.321+08:00",
-  "totalDraws": 601,
+  "lastUpdated": "2026-11-08T18:52:16.587+08:00",
+  "totalDraws": 602,
   "draws": [
+    {
+      "id": "4D-5559",
+      "gameType": "4D",
+      "drawNumber": 5559,
+      "drawDate": "2026-11-08",
+      "winningNumbers": [
+        824
+      ],
+      "firstPrize": "0824",
+      "secondPrize": "8526",
+      "thirdPrize": "9371",
+      "starterPrizes": [
+        "1494",
+        "1960",
+        "2154",
+        "3309",
+        "4869",
+        "7228",
+        "7337",
+        "7826",
+        "9008",
+        "9658"
+      ],
+      "consolationPrizes": [
+        "0534",
+        "0605",
+        "3677",
+        "6570",
+        "7148",
+        "8350",
+        "8727",
+        "8937",
+        "9066",
+        "9384"
+      ],
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "1st Prize",
+          "prizeAmount": 2000,
+          "numberOfWinners": 1,
+          "shareAmount": 2000
+        },
+        {
+          "group": 2,
+          "prizeType": "2nd Prize",
+          "prizeAmount": 1000,
+          "numberOfWinners": 1,
+          "shareAmount": 1000
+        },
+        {
+          "group": 3,
+          "prizeType": "3rd Prize",
+          "prizeAmount": 490,
+          "numberOfWinners": 1,
+          "shareAmount": 490
+        },
+        {
+          "group": 4,
+          "prizeType": "Starter Prize",
+          "prizeAmount": 250,
+          "numberOfWinners": 10,
+          "shareAmount": 250
+        },
+        {
+          "group": 5,
+          "prizeType": "Consolation Prize",
+          "prizeAmount": 60,
+          "numberOfWinners": 10,
+          "shareAmount": 60
+        }
+      ]
+    },
     {
       "id": "4D-5558",
       "gameType": "4D",
@@ -43870,7 +43943,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Sun, 8 Nov 2026",
+    "nextDrawDate": "Wed, 11 Nov 2026",
     "nextDrawTime": "18:30",
     "nextDrawEstimatedJackpot": null
   }
