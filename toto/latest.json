@@ -1,90 +1,61 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-11-06T02:54:35.225+08:00",
+  "lastUpdated": "2026-11-09T22:28:40.267+08:00",
   "draws": [
     {
-      "id": "TOTO-4232",
+      "id": "TOTO-4233",
       "gameType": "TOTO",
-      "drawNumber": 4232,
-      "drawDate": "2026-11-05",
+      "drawNumber": 4233,
+      "drawDate": "2026-11-09",
       "winningNumbers": [
-        6,
-        13,
-        31,
-        34,
+        5,
+        27,
+        29,
+        38,
         40,
-        45
+        43
       ],
-      "additionalNumber": 20,
-      "jackpotAmount": 5587132,
+      "additionalNumber": 4,
+      "jackpotAmount": 12198558,
       "resultsStatus": "final",
       "prizes": [
         {
           "group": 1,
           "prizeType": "Group 1",
-          "prizeAmount": 0,
-          "numberOfWinners": 0,
-          "shareAmount": 0,
+          "prizeAmount": 12198558,
+          "numberOfWinners": 2,
+          "shareAmount": 6099279,
           "winningOutlets": []
         },
         {
           "group": 2,
           "prizeType": "Group 2",
-          "prizeAmount": 558900,
-          "numberOfWinners": 5,
-          "shareAmount": 111780,
-          "winningOutlets": [
-            {
-              "outletName": "NTUC FairPrice Canberra Plaza",
-              "outletAddress": "133 Canberra View #B1-03/04 Canberra Plaza",
-              "betType": "QuickPick System 7",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "NTUC FairPrice Lot 1 Shoppers' Mall",
-              "outletAddress": "21 Choa Chu Kang Avenue 4 #B1-03 Lot 1 Shoppers' Mall",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Superbowl Jurong Pte Ltd",
-              "outletAddress": "3 Yuan Ching Road",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            },
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
+          "prizeAmount": 1391880,
+          "numberOfWinners": 12,
+          "shareAmount": 115990,
+          "winningOutlets": []
         },
         {
           "group": 3,
           "prizeType": "Group 3",
-          "prizeAmount": 1941,
-          "numberOfWinners": 198,
-          "shareAmount": 1941,
+          "prizeAmount": 1903,
+          "numberOfWinners": 503,
+          "shareAmount": 1903,
           "winningOutlets": []
         },
         {
           "group": 4,
           "prizeType": "Group 4",
-          "prizeAmount": 394,
-          "numberOfWinners": 532,
-          "shareAmount": 394,
+          "prizeAmount": 418,
+          "numberOfWinners": 1249,
+          "shareAmount": 418,
           "winningOutlets": []
         },
         {
           "group": 5,
           "prizeType": "Group 5",
           "prizeAmount": 50,
-          "numberOfWinners": 11073,
+          "numberOfWinners": 27707,
           "shareAmount": 50,
           "winningOutlets": []
         },
@@ -92,7 +63,7 @@
           "group": 6,
           "prizeType": "Group 6",
           "prizeAmount": 25,
-          "numberOfWinners": 15149,
+          "numberOfWinners": 36396,
           "shareAmount": 25,
           "winningOutlets": []
         },
@@ -100,7 +71,7 @@
           "group": 7,
           "prizeType": "Group 7",
           "prizeAmount": 10,
-          "numberOfWinners": 203459,
+          "numberOfWinners": 509079,
           "shareAmount": 10,
           "winningOutlets": []
         }
@@ -108,8 +79,8 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Mon, 09 Nov 2026",
-    "nextDrawTime": "21:30",
-    "nextDrawEstimatedJackpot": 10000000
+    "nextDrawDate": "Thu, 12 Nov 2026",
+    "nextDrawTime": "18:30",
+    "nextDrawEstimatedJackpot": 1000000
   }
 }
