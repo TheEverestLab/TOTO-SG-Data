@@ -1,8 +1,81 @@
 {
   "gameType": "4D",
-  "lastUpdated": "2026-11-11T18:51:21.980+08:00",
-  "totalDraws": 603,
+  "lastUpdated": "2026-11-14T18:50:28.011+08:00",
+  "totalDraws": 604,
   "draws": [
+    {
+      "id": "4D-5561",
+      "gameType": "4D",
+      "drawNumber": 5561,
+      "drawDate": "2026-11-14",
+      "winningNumbers": [
+        6578
+      ],
+      "firstPrize": "6578",
+      "secondPrize": "9653",
+      "thirdPrize": "1399",
+      "starterPrizes": [
+        "1571",
+        "2035",
+        "2193",
+        "4577",
+        "5143",
+        "5515",
+        "7429",
+        "7797",
+        "8945",
+        "9001"
+      ],
+      "consolationPrizes": [
+        "3575",
+        "4999",
+        "5678",
+        "6119",
+        "6357",
+        "7931",
+        "8871",
+        "9555",
+        "9582",
+        "9953"
+      ],
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "1st Prize",
+          "prizeAmount": 2000,
+          "numberOfWinners": 1,
+          "shareAmount": 2000
+        },
+        {
+          "group": 2,
+          "prizeType": "2nd Prize",
+          "prizeAmount": 1000,
+          "numberOfWinners": 1,
+          "shareAmount": 1000
+        },
+        {
+          "group": 3,
+          "prizeType": "3rd Prize",
+          "prizeAmount": 490,
+          "numberOfWinners": 1,
+          "shareAmount": 490
+        },
+        {
+          "group": 4,
+          "prizeType": "Starter Prize",
+          "prizeAmount": 250,
+          "numberOfWinners": 10,
+          "shareAmount": 250
+        },
+        {
+          "group": 5,
+          "prizeType": "Consolation Prize",
+          "prizeAmount": 60,
+          "numberOfWinners": 10,
+          "shareAmount": 60
+        }
+      ]
+    },
     {
       "id": "4D-5560",
       "gameType": "4D",
@@ -44016,7 +44089,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Sat, 14 Nov 2026",
+    "nextDrawDate": "Sun, 15 Nov 2026",
     "nextDrawTime": "18:30",
     "nextDrawEstimatedJackpot": null
   }
