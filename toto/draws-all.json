@@ -1,6 +1,6 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-11-16T18:41:57.558+08:00",
+  "lastUpdated": "2026-11-16T21:25:55.656+08:00",
   "totalDraws": 404,
   "draws": [
     {
@@ -17,9 +17,81 @@
         43
       ],
       "additionalNumber": 41,
-      "jackpotAmount": 0,
-      "resultsStatus": "partial",
-      "prizes": []
+      "jackpotAmount": 1212240,
+      "resultsStatus": "final",
+      "prizes": [
+        {
+          "group": 1,
+          "prizeType": "Group 1",
+          "prizeAmount": 1212240,
+          "numberOfWinners": 2,
+          "shareAmount": 606120,
+          "winningOutlets": [
+            {
+              "outletName": "Prime Chai Chee Road",
+              "outletAddress": "Block 25A Chai Chee Road #01-459",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            },
+            {
+              "outletName": "Tampines Trading",
+              "outletAddress": "828 - Block 828 Tampines Street 81 #01-234",
+              "betType": "QuickPick System 7",
+              "purchaseMethod": "Retail",
+              "shareCount": 1
+            }
+          ]
+        },
+        {
+          "group": 2,
+          "prizeType": "Group 2",
+          "prizeAmount": 255209,
+          "numberOfWinners": 1,
+          "shareAmount": 255209,
+          "winningOutlets": []
+        },
+        {
+          "group": 3,
+          "prizeType": "Group 3",
+          "prizeAmount": 2089,
+          "numberOfWinners": 84,
+          "shareAmount": 2089,
+          "winningOutlets": []
+        },
+        {
+          "group": 4,
+          "prizeType": "Group 4",
+          "prizeAmount": 634,
+          "numberOfWinners": 151,
+          "shareAmount": 634,
+          "winningOutlets": []
+        },
+        {
+          "group": 5,
+          "prizeType": "Group 5",
+          "prizeAmount": 50,
+          "numberOfWinners": 4267,
+          "shareAmount": 50,
+          "winningOutlets": []
+        },
+        {
+          "group": 6,
+          "prizeType": "Group 6",
+          "prizeAmount": 25,
+          "numberOfWinners": 5222,
+          "shareAmount": 25,
+          "winningOutlets": []
+        },
+        {
+          "group": 7,
+          "prizeType": "Group 7",
+          "prizeAmount": 10,
+          "numberOfWinners": 87359,
+          "shareAmount": 10,
+          "winningOutlets": []
+        }
+      ]
     },
     {
       "id": "TOTO-4234",
@@ -60048,7 +60120,7 @@
     }
   ],
   "nextDraw": {
-    "nextDrawDate": "Mon, 16 Nov 2026",
+    "nextDrawDate": "Thu, 19 Nov 2026",
     "nextDrawTime": "18:30",
     "nextDrawEstimatedJackpot": 1000000
   }
