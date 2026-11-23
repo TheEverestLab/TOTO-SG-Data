@@ -1,97 +1,24 @@
 {
   "gameType": "TOTO",
-  "lastUpdated": "2026-11-20T06:37:44.771+08:00",
+  "lastUpdated": "2026-11-23T18:51:51.072+08:00",
   "draws": [
     {
-      "id": "TOTO-4236",
+      "id": "TOTO-4237",
       "gameType": "TOTO",
-      "drawNumber": 4236,
-      "drawDate": "2026-11-19",
+      "drawNumber": 4237,
+      "drawDate": "2026-11-23",
       "winningNumbers": [
-        8,
-        26,
-        28,
+        25,
+        27,
         37,
-        41,
-        42
+        43,
+        47,
+        49
       ],
-      "additionalNumber": 34,
-      "jackpotAmount": 1183486,
-      "resultsStatus": "final",
-      "prizes": [
-        {
-          "group": 1,
-          "prizeType": "Group 1",
-          "prizeAmount": 1183486,
-          "numberOfWinners": 1,
-          "shareAmount": 1183486,
-          "winningOutlets": [
-            {
-              "outletName": "Teo Sook Cheng Agency",
-              "outletAddress": "Block 293 Yishun Street 22 #01-225",
-              "betType": "QuickPick Ordinary",
-              "purchaseMethod": "Retail",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 2,
-          "prizeType": "Group 2",
-          "prizeAmount": 249155,
-          "numberOfWinners": 1,
-          "shareAmount": 249155,
-          "winningOutlets": [
-            {
-              "outletName": "Singapore Pools Account",
-              "outletAddress": null,
-              "betType": "System 7",
-              "purchaseMethod": "Online",
-              "shareCount": 1
-            }
-          ]
-        },
-        {
-          "group": 3,
-          "prizeType": "Group 3",
-          "prizeAmount": 2115,
-          "numberOfWinners": 81,
-          "shareAmount": 2115,
-          "winningOutlets": []
-        },
-        {
-          "group": 4,
-          "prizeType": "Group 4",
-          "prizeAmount": 412,
-          "numberOfWinners": 227,
-          "shareAmount": 412,
-          "winningOutlets": []
-        },
-        {
-          "group": 5,
-          "prizeType": "Group 5",
-          "prizeAmount": 50,
-          "numberOfWinners": 5016,
-          "shareAmount": 50,
-          "winningOutlets": []
-        },
-        {
-          "group": 6,
-          "prizeType": "Group 6",
-          "prizeAmount": 25,
-          "numberOfWinners": 6049,
-          "shareAmount": 25,
-          "winningOutlets": []
-        },
-        {
-          "group": 7,
-          "prizeType": "Group 7",
-          "prizeAmount": 10,
-          "numberOfWinners": 94429,
-          "shareAmount": 10,
-          "winningOutlets": []
-        }
-      ]
+      "additionalNumber": 17,
+      "jackpotAmount": 0,
+      "resultsStatus": "partial",
+      "prizes": []
     }
   ],
   "nextDraw": {
